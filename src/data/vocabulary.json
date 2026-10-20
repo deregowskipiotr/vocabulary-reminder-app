@@ -1,0 +1,2728 @@
+[
+  {
+    "id": "bewilderment",
+    "term": "bewilderment",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "unknown",
+    "definition": "A feeling of being very confused and unsure what is happening.",
+    "polishMeaning": [
+      "osłupienie",
+      "oszołomienie",
+      "dezorientacja"
+    ],
+    "examples": [
+      "She stared at the instructions in bewilderment.",
+      "To his bewilderment, nobody seemed to recognise him."
+    ],
+    "collocations": [
+      "complete bewilderment",
+      "look at someone in bewilderment"
+    ],
+    "usageNote": "Usually uncountable. It describes a state or feeling of confusion.",
+    "synonyms": [
+      "confusion",
+      "puzzlement",
+      "perplexity"
+    ]
+  },
+  {
+    "id": "punitive",
+    "term": "punitive",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "unknown",
+    "definition": "Intended to punish someone or to make them suffer for something they have done.",
+    "polishMeaning": [
+      "karny",
+      "mający na celu ukaranie"
+    ],
+    "examples": [
+      "The company introduced punitive measures for repeated violations.",
+      "Critics argued that the fine was too punitive."
+    ],
+    "collocations": [
+      "punitive measures",
+      "punitive action",
+      "punitive damages"
+    ],
+    "usageNote": "Often used in formal contexts, especially about rules, measures, costs, or legal penalties.",
+    "synonyms": [
+      "punishing",
+      "penal",
+      "disciplinary"
+    ]
+  },
+  {
+    "id": "captivity",
+    "term": "captivity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "unknown",
+    "definition": "The state of being kept as a prisoner or being unable to escape from a place.",
+    "polishMeaning": [
+      "niewola",
+      "uwięzienie"
+    ],
+    "examples": [
+      "The hostages were held in captivity for several months.",
+      "Some wild animals do not adapt well to life in captivity."
+    ],
+    "collocations": [
+      "hold someone in captivity",
+      "escape from captivity",
+      "in captivity"
+    ],
+    "usageNote": "Usually uncountable. It can refer to people or animals.",
+    "synonyms": [
+      "imprisonment",
+      "confinement",
+      "detention"
+    ]
+  },
+  {
+    "id": "adjacent",
+    "term": "adjacent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C2",
+    "definition": "Next to something, or very close to it.",
+    "polishMeaning": [
+      "sąsiedni",
+      "przylegający"
+    ],
+    "examples": [
+      "The hotel is adjacent to the railway station.",
+      "The two rooms are adjacent to each other."
+    ],
+    "collocations": [
+      "adjacent to",
+      "adjacent rooms",
+      "adjacent buildings"
+    ],
+    "usageNote": "It is commonly followed by “to”.",
+    "synonyms": [
+      "neighbouring",
+      "adjoining",
+      "next to"
+    ]
+  },
+  {
+    "id": "inmate",
+    "term": "inmate",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "unknown",
+    "definition": "A person who is kept in a prison or who lives in a similar institution.",
+    "polishMeaning": [
+      "więzień",
+      "osadzony"
+    ],
+    "examples": [
+      "The inmate was transferred to another prison.",
+      "Each inmate has access to the library twice a week."
+    ],
+    "collocations": [
+      "a former inmate",
+      "a fellow inmate",
+      "prison inmate"
+    ],
+    "usageNote": "Most commonly used for someone in prison; it can also refer to a person living in certain institutions.",
+    "synonyms": [
+      "prisoner",
+      "detainee"
+    ]
+  },
+  {
+    "id": "to-incarcerate",
+    "term": "to incarcerate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "unknown",
+    "definition": "To put someone in prison or keep them in a place they cannot leave.",
+    "polishMeaning": [
+      "uwięzić",
+      "osadzić w więzieniu"
+    ],
+    "examples": [
+      "The court decided to incarcerate him for the offence.",
+      "Thousands of people were incarcerated without a fair trial."
+    ],
+    "collocations": [
+      "incarcerate someone",
+      "be incarcerated in prison"
+    ],
+    "usageNote": "Formal. The verb is usually used in passive forms when describing a person's imprisonment.",
+    "synonyms": [
+      "to imprison",
+      "to jail",
+      "to confine"
+    ]
+  },
+  {
+    "id": "heinous",
+    "term": "heinous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "unknown",
+    "definition": "Extremely evil or shocking, especially when describing a crime or an act.",
+    "polishMeaning": [
+      "ohydny",
+      "haniebny",
+      "potworny"
+    ],
+    "examples": [
+      "The judge described the attack as a heinous crime.",
+      "They were accused of committing a heinous act."
+    ],
+    "collocations": [
+      "a heinous crime",
+      "a heinous act",
+      "heinous offences"
+    ],
+    "usageNote": "A strong, formal word, most often used about serious crimes or acts.",
+    "synonyms": [
+      "atrocious",
+      "abominable",
+      "reprehensible"
+    ]
+  },
+  {
+    "id": "penitentiary",
+    "term": "penitentiary",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "unknown",
+    "definition": "A prison, especially a large one for people convicted of serious crimes.",
+    "polishMeaning": [
+      "zakład karny",
+      "więzienie"
+    ],
+    "examples": [
+      "He was sent to a federal penitentiary.",
+      "The old penitentiary is now open to visitors."
+    ],
+    "collocations": [
+      "federal penitentiary",
+      "state penitentiary"
+    ],
+    "usageNote": "The noun is especially common in North American English. The adjective “penitentiary” has a related meaning, but this entry focuses on the noun sense.",
+    "synonyms": [
+      "prison",
+      "penal institution"
+    ]
+  },
+  {
+    "id": "to-be-entitled-to",
+    "term": "to be entitled to",
+    "partOfSpeech": [
+      "expression"
+    ],
+    "level": "unknown",
+    "definition": "To have the right to receive or do something.",
+    "polishMeaning": [
+      "mieć prawo do",
+      "być uprawnionym do"
+    ],
+    "examples": [
+      "Employees are entitled to paid annual leave.",
+      "You may be entitled to a refund."
+    ],
+    "collocations": [
+      "be entitled to compensation",
+      "be entitled to a refund",
+      "be entitled to do something"
+    ],
+    "usageNote": "Followed by a noun phrase or a to-infinitive: “entitled to a refund” and “entitled to receive a refund”.",
+    "synonyms": [
+      "to have the right to",
+      "to be eligible for"
+    ]
+  },
+  {
+    "id": "to-allocate",
+    "term": "to allocate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "unknown",
+    "definition": "To decide officially that something, such as time, money, or resources, will be given to a particular person or purpose.",
+    "polishMeaning": [
+      "przydzielać",
+      "przeznaczać"
+    ],
+    "examples": [
+      "The manager allocated more money to staff training.",
+      "We need to allocate enough time for each task."
+    ],
+    "collocations": [
+      "allocate resources",
+      "allocate funds",
+      "allocate time"
+    ],
+    "usageNote": "Often used in formal or organisational contexts. Common pattern: allocate something to someone or something.",
+    "synonyms": [
+      "to assign",
+      "to allot",
+      "to apportion",
+      "to earmark"
+    ]
+  },
+  {
+    "id": "nefarious",
+    "term": "nefarious",
+    "partOfSpeech": ["adjective"],
+    "level": "C1",
+    "definition": "Wicked, evil, or criminal in nature.",
+    "polishMeaning": ["niegodziwy", "podły", "przestępczy"],
+    "examples": [
+      "The company discovered a nefarious plot to steal customer data.",
+      "The investigation exposed a nefarious scheme to manipulate markets."
+    ],
+    "collocations": ["nefarious plot", "nefarious scheme", "nefarious motives"],
+    "usageNote": "Formal. Typically used to describe actions, schemes, or motives that are morally wrong or illegal.",
+    "synonyms": ["wicked", "villainous", "heinous"]
+  },
+  {
+    "id": "perturbing",
+    "term": "perturbing",
+    "partOfSpeech": ["adjective"],
+    "level": "C1",
+    "definition": "Causing anxiety, worry, or distress.",
+    "polishMeaning": ["niepokojący", "trapiący"],
+    "examples": [
+      "It is perturbing to see how fast fake news spreads online.",
+      "The report presented perturbing evidence of accelerating environmental issues."
+    ],
+    "collocations": ["perturbing news", "perturbing trend", "deeply perturbing"],
+    "usageNote": "Used to describe situation or news that makes someone feel uneasy or troubled.",
+    "synonyms": ["disturbing", "unsettling", "disquieting"]
+  },
+  {
+    "id": "monetary",
+    "term": "monetary",
+    "partOfSpeech": ["adjective"],
+    "level": "B2",
+    "definition": "Relating to money, currency, or finance.",
+    "polishMeaning": ["pieniężny", "monetarny", "finansowy"],
+    "examples": [
+      "The old picture had high emotional value but low monetary value.",
+      "Central banks adjusted their monetary policy to curb inflation."
+    ],
+    "collocations": ["monetary value", "monetary policy", "monetary system"],
+    "usageNote": "Often used in formal, business, or official economic contexts.",
+    "synonyms": ["financial", "fiscal", "pecuniary"]
+  },
+  {
+    "id": "appreciable",
+    "term": "appreciable",
+    "partOfSpeech": ["adjective"],
+    "level": "C1",
+    "definition": "Large or significant enough to be noticed or measured.",
+    "polishMeaning": ["zauważalny", "znaczny"],
+    "examples": [
+      "We noticed an appreciable improvement in his English after a few months.",
+      "The new strategy brought an appreciable increase in sales."
+    ],
+    "collocations": ["appreciable difference", "appreciable increase", "appreciable amount"],
+    "usageNote": "Not to be confused with 'appreciated' (thankful). It means a visible or measurable change.",
+    "synonyms": ["noticeable", "substantial", "sizable"]
+  },
+  {
+    "id": "to-lament",
+    "term": "to lament",
+    "partOfSpeech": ["verb"],
+    "level": "C1",
+    "definition": "To express sorrow, regret, or disappointment about something.",
+    "polishMeaning": ["ubolewać", "opłakiwać", "żałować"],
+    "examples": [
+      "Many citizens lament the loss of green spaces in the city.",
+      "Economists lament the lack of long-term planning."
+    ],
+    "collocations": ["lament the fact that", "lament the loss of", "bitterly lament"],
+    "usageNote": "Can be used formally for public complaints or deeply for personal grief.",
+    "synonyms": ["mourn", "regret", "bemoan"]
+  },
+  {
+    "id": "counterintuitive",
+    "term": "counterintuitive",
+    "partOfSpeech": ["adjective"],
+    "level": "C1",
+    "definition": "Going against what common sense or expectation would suggest.",
+    "polishMeaning": ["sprzeczny z intuicją", "nieintuicyjny"],
+    "examples": [
+      "It sounds counterintuitive, but taking short breaks can boost productivity.",
+      "The study revealed a counterintuitive result in customer behavior."
+    ],
+    "collocations": ["counterintuitive result", "seem counterintuitive", "highly counterintuitive"],
+    "usageNote": "Refers to facts or outcomes that surprise us because they contradict gut feelings.",
+    "synonyms": ["illogical", "unexpected", "paradoxical"]
+  },
+  {
+    "id": "to-endure",
+    "term": "to endure",
+    "partOfSpeech": ["verb"],
+    "level": "B2",
+    "definition": "To suffer through difficulty with patience, or to last over time.",
+    "polishMeaning": ["znosić", "wytrzymywać", "trwać"],
+    "examples": [
+      "Commuters have to endure long traffic jams every morning.",
+      "Despite many hardships, their friendship managed to endure."
+    ],
+    "collocations": ["endure pain", "endure hardship", "endure testing"],
+    "usageNote": "Has two meanings: to tolerate suffering, or to survive/continue existing over time.",
+    "synonyms": ["withstand", "bear", "persist"]
+  },
+  {
+    "id": "imperative",
+    "term": "imperative",
+    "partOfSpeech": ["adjective", "noun"],
+    "level": "C1",
+    "definition": "Extremely important, urgent, or essential.",
+    "polishMeaning": ["konieczny", "niezbędny", "priorytet"],
+    "examples": [
+      "It is imperative to check your car oil before long drives.",
+      "Action is imperative to prevent further damage."
+    ],
+    "collocations": ["imperative to do something", "moral imperative", "business imperative"],
+    "usageNote": "Stronger than 'important'. Expresses absolute necessity or urgency.",
+    "synonyms": ["crucial", "vital", "essential"]
+  },
+  {
+    "id": "to-adhere",
+    "term": "to adhere",
+    "partOfSpeech": ["verb"],
+    "level": "C1",
+    "definition": "To follow rules or instructions strictly, or to stick to something.",
+    "polishMeaning": ["przestrzegać", "stosować się", "przylegać"],
+    "examples": [
+      "All employees must adhere to the company safety guidelines.",
+      "The tape will not adhere to wet surfaces."
+    ],
+    "collocations": ["adhere to rules", "adhere to standards", "strictly adhere"],
+    "usageNote": "Always paired with the preposition 'to' when talking about rules or surfaces.",
+    "synonyms": ["comply with", "conform to", "stick to"]
+  },
+  {
+    "id": "forewarned-is-forearmed",
+    "term": "forewarned is forearmed",
+    "partOfSpeech": ["idiom"],
+    "level": "C1",
+    "definition": "Knowing about a problem in advance helps you prepare for it.",
+    "polishMeaning": ["przezorny zawsze ubezpieczony"],
+    "examples": [
+      "Knowing about the road construction helped us plan a better route—forewarned is forearmed.",
+      "Analyzing competitor strategy gave us a distinct advantage; after all, forewarned is forearmed."
+    ],
+    "collocations": ["remember that forewarned is forearmed"],
+    "usageNote": "Proverbial expression used to emphasize the value of prior knowledge.",
+    "synonyms": ["prevention is better than cure", "preparedness is key"]
+  },
+  {
+    "id": "sepulchral",
+    "term": "sepulchral",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C2",
+    "definition": "Extremely gloomy, dark, or suggesting a tomb or grave.",
+    "polishMeaning": [
+      "grobowy",
+      "ponury",
+      "cmentarny"
+    ],
+    "examples": [
+      "The tour guide spoke in a slow, sepulchral tone as we entered the ancient catacombs.",
+      "A sepulchral silence fell over the room during the funeral service."
+    ],
+    "collocations": [
+      "sepulchral tone",
+      "sepulchral gloom",
+      "sepulchral silence"
+    ],
+    "usageNote": "Formal and literary. Frequently used to describe voices, atmospheres, or places that feel somber or eerie.",
+    "synonyms": [
+      "gloomy",
+      "somber",
+      "funereal"
+    ]
+  },
+  {
+    "id": "to-condemn",
+    "term": "to condemn",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "To express complete disapproval of something, or to sentence someone to a specific punishment.",
+    "polishMeaning": [
+      "potępiać",
+      "skazywać"
+    ],
+    "examples": [
+      "World leaders were quick to condemn the terrorist attack.",
+      "The judge condemned the criminal to ten years in prison."
+    ],
+    "collocations": [
+      "condemn an action",
+      "strongly condemn",
+      "condemn someone to prison"
+    ],
+    "usageNote": "Used in official, legal, or moral contexts when declaring something unacceptable.",
+    "synonyms": [
+      "denounce",
+      "censure",
+      "sentence"
+    ]
+  },
+  {
+    "id": "with-the-intent-of",
+    "term": "with the intent of",
+    "partOfSpeech": [
+      "prepositional phrase"
+    ],
+    "level": "C1",
+    "definition": "With the purpose or goal of doing something specific.",
+    "polishMeaning": [
+      "z zamiarem",
+      "w celu"
+    ],
+    "examples": [
+      "He entered the building with the intent of speaking directly to the director.",
+      "She saved money for years with the intent of starting her own company."
+    ],
+    "collocations": [
+      "with the sole intent of",
+      "with the clear intent of",
+      "with the explicit intent of"
+    ],
+    "usageNote": "Formal. Always followed by a verb in the '-ing' form (gerund) or a noun phrase.",
+    "synonyms": [
+      "with the aim of",
+      "in order to",
+      "with the goal of"
+    ]
+  },
+  {
+    "id": "to-undergo",
+    "term": "to undergo",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "B2",
+    "definition": "To experience, pass through, or endure a change, test, or process.",
+    "polishMeaning": [
+      "przechodzić",
+      "poddawać się (np. zabiegowi)"
+    ],
+    "examples": [
+      "The patient will need to undergo surgery next week.",
+      "The company is undergoing major restructuring to improve profitability."
+    ],
+    "collocations": [
+      "undergo surgery",
+      "undergo training",
+      "undergo transformation"
+    ],
+    "usageNote": "Irregular verb (undergo, underwent, undergone). Usually combined with process nouns like treatment, change, or inspection.",
+    "synonyms": [
+      "experience",
+      "go through",
+      "endure"
+    ]
+  },
+  {
+    "id": "to-stipulate",
+    "term": "to stipulate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "To specify or demand a condition as part of an official agreement or contract.",
+    "polishMeaning": [
+      "zastrzegać",
+      "określać (w umowie)"
+    ],
+    "examples": [
+      "The contract stipulates that payment must be made within 30 days.",
+      "The law stipulates strict safety standards for nuclear power plants."
+    ],
+    "collocations": [
+      "stipulate that",
+      "as stipulated in the contract",
+      "clearly stipulate"
+    ],
+    "usageNote": "Formal and legal. Commonly followed by a 'that' clause or a direct requirement.",
+    "synonyms": [
+      "specify",
+      "require",
+      "demand"
+    ]
+  },
+  {
+    "id": "to-relive",
+    "term": "to relive",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "B2",
+    "definition": "To experience a past event or feeling again in one's imagination or memory.",
+    "polishMeaning": [
+      "przeżywać na nowo"
+    ],
+    "examples": [
+      "Watching the home videos allowed them to relive their favorite childhood memories.",
+      "Trauma victims often feel like they are reliving the event during flashbacks."
+    ],
+    "collocations": [
+      "relive memories",
+      "relive a moment",
+      "relive the past"
+    ],
+    "usageNote": "Do not confuse with 'relieve' (to ease pain or stress). 'Relive' literally means live again in your mind.",
+    "synonyms": [
+      "recreate",
+      "re-experience",
+      "reminisce"
+    ]
+  },
+  {
+    "id": "rebuke",
+    "term": "rebuke",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "level": "C2",
+    "definition": "An expression of sharp, severe disapproval or criticism.",
+    "polishMeaning": [
+      "nagana",
+      "upomnienie",
+      "gromić"
+    ],
+    "examples": [
+      "The manager gave a stern rebuke to the team for failing to meet the deadline.",
+      "She rebuked him for his impolite behavior during the dinner."
+    ],
+    "collocations": [
+      "sharp rebuke",
+      "stern rebuke",
+      "deliver a rebuke"
+    ],
+    "usageNote": "Formal. As a noun, it means the criticism itself; as a verb, it means the act of scolding someone severely.",
+    "synonyms": [
+      "reprimand",
+      "reproach",
+      "scolding"
+    ]
+  },
+  {
+    "id": "dignity",
+    "term": "dignity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "B2",
+    "definition": "The state or quality of being worthy of honor, respect, and self-esteem.",
+    "polishMeaning": [
+      "godność",
+      "powaga"
+    ],
+    "examples": [
+      "Despite the harsh treatment, she maintained her dignity throughout the trial.",
+      "Every individual deserves to be treated with human dignity."
+    ],
+    "collocations": [
+      "human dignity",
+      "maintain dignity",
+      "with dignity"
+    ],
+    "usageNote": "Uncountable noun. Expresses self-respect, poise (*composure and grace*), or moral worth.",
+    "synonyms": [
+      "self-respect",
+      "honor",
+      "pride"
+    ]
+  },
+  {
+    "id": "to-administer",
+    "term": "to administer",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "To manage or organize business affairs, or to give out medicine or treatment.",
+    "polishMeaning": [
+      "zarządzać",
+      "podawać (np. lek)"
+    ],
+    "examples": [
+      "The nurse was trained to administer first aid in emergency situations.",
+      "A special committee was appointed to administer the new fund."
+    ],
+    "collocations": [
+      "administer medication",
+      "administer a test",
+      "administer justice"
+    ],
+    "usageNote": "Very versatile: used in medical contexts (giving drugs), legal/government contexts (applying laws), or management.",
+    "synonyms": [
+      "manage",
+      "dispense",
+      "execute"
+    ]
+  },
+  {
+    "id": "consent",
+    "term": "consent",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "level": "B2",
+    "definition": "Permission or agreement for something to happen or be done.",
+    "polishMeaning": [
+      "zgoda",
+      "zezwolenie",
+      "wyrażać zgodę"
+    ],
+    "examples": [
+      "You cannot use these photos without the owner's explicit consent.",
+      "He consented to participate in the scientific study."
+    ],
+    "collocations": [
+      "written consent",
+      "informed consent",
+      "by mutual consent"
+    ],
+    "usageNote": "When used as a verb, it is followed by 'to' (e.g., 'consent to the terms'). As a noun, it often follows verbs like 'give', 'obtain', or 'withhold'.",
+    "synonyms": [
+      "permission",
+      "approval",
+      "agreement"
+    ]
+  },
+  {
+    "id": "saunter",
+    "term": "saunter",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "level": "C1",
+    "definition": "To walk in a slow, relaxed manner, without hurry or special purpose.",
+    "polishMeaning": [
+      "spacerować",
+      "włóczyć się",
+      "spacer"
+    ],
+    "examples": [
+      "They sauntered down the street, enjoying the warm evening air.",
+      "He took a leisurely saunter through the park before meeting his friends."
+    ],
+    "collocations": [
+      "saunter down",
+      "casual saunter",
+      "take a saunter"
+    ],
+    "usageNote": "Conveys a sense of effortless leisure and calmness.",
+    "synonyms": [
+      "stroll",
+      "amble",
+      "wander"
+    ]
+  },
+  {
+    "id": "to-disown",
+    "term": "to disown",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "To refuse to acknowledge or maintain any connection with someone.",
+    "polishMeaning": [
+      "wyrzec się",
+      "wyzeknąć się"
+    ],
+    "examples": [
+      "His family threatened to disown him if he pursued a career in art instead of law.",
+      "The politician tried to disown his previous controversial statements."
+    ],
+    "collocations": [
+      "disown family",
+      "disown responsibility",
+      "completely disown"
+    ],
+    "usageNote": "Often used in serious family or political contexts to cut ties completely.",
+    "synonyms": [
+      "reject",
+      "repudiate",
+      "abandon"
+    ]
+  },
+  {
+    "id": "to-put-it-bluntly",
+    "term": "to put it bluntly",
+    "partOfSpeech": [
+      "idiom"
+    ],
+    "level": "B2",
+    "definition": "To state something in a very direct, honest, and unembellished way, without worrying about offending anyone.",
+    "polishMeaning": [
+      "mówiąc szczerze",
+      "krótko mówiąc",
+      "bez ogródek"
+    ],
+    "examples": [
+      "To put it bluntly, your marketing strategy is failing.",
+      "She told him, to put it bluntly, that he was not qualified for the job."
+    ],
+    "collocations": [
+      "to put it bluntly",
+      "put bluntly"
+    ],
+    "usageNote": "Used right before giving an uncomfortably honest opinion.",
+    "synonyms": [
+      "frankly speaking",
+      "to be blunt",
+      "plainly"
+    ]
+  },
+  {
+    "id": "to-surrender",
+    "term": "to surrender",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "level": "B2",
+    "definition": "To cease resistance to an enemy or opponent and submit to their authority.",
+    "polishMeaning": [
+      "kapitulować",
+      "poddawać się"
+    ],
+    "examples": [
+      "The outnumbered troops had no choice but to surrender.",
+      "She decided to surrender to her exhaustion and go straight to sleep."
+    ],
+    "collocations": [
+      "surrender unconditionally",
+      "force someone to surrender",
+      "surrender control"
+    ],
+    "usageNote": "Can be used literally in military conflicts or metaphorically regarding habits and feelings.",
+    "synonyms": [
+      "yield",
+      "give in",
+      "capitulate"
+    ]
+  },
+  {
+    "id": "batch",
+    "term": "batch",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "level": "B2",
+    "definition": "A quantity of goods produced at one time, or a group of things or people dealt with together.",
+    "polishMeaning": [
+      "partia",
+      "porcja",
+      "seria"
+    ],
+    "examples": [
+      "The bakery just finished baking a fresh batch of bread.",
+      "We are processing the new batch of visa applications this morning."
+    ],
+    "collocations": [
+      "fresh batch",
+      "batch of cookies",
+      "in batches"
+    ],
+    "usageNote": "Very common in both cooking, manufacturing, and software processing.",
+    "synonyms": [
+      "group",
+      "lot",
+      "bundle"
+    ]
+  },
+  {
+    "id": "trenchant",
+    "term": "trenchant",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C2",
+    "definition": "Vigorous or incisive in expression or style; sharply perceptive.",
+    "polishMeaning": [
+      "ostry",
+      "cięty",
+      "przenikliwy"
+    ],
+    "examples": [
+      "The book offers trenchant criticism of modern economic policies.",
+      "Her trenchant remarks quickly exposed the flaws in the plan."
+    ],
+    "collocations": [
+      "trenchant criticism",
+      "trenchant analysis",
+      "trenchant commentary"
+    ],
+    "usageNote": "Formal and advanced. Describes strong, clear, and cutting commentary or analysis.",
+    "synonyms": [
+      "incisive",
+      "piercing",
+      "sharp"
+    ]
+  },
+  {
+    "id": "to-be-amenable-to-reason",
+    "term": "to be amenable to reason",
+    "partOfSpeech": [
+      "idiom"
+    ],
+    "level": "C1",
+    "definition": "Open to sensible suggestions, logical arguments, or persuasion.",
+    "polishMeaning": [
+      "dający się przekonać",
+      "rozsądny",
+      "skłonny do wysłuchania argumentów"
+    ],
+    "examples": [
+      "Fortunately, the client was amenable to reason and accepted our revised offer.",
+      "If you explain the issue calmly, he is usually amenable to reason."
+    ],
+    "collocations": [
+      "prove amenable to reason",
+      "remain amenable to reason"
+    ],
+    "usageNote": "Used when describing someone who is willing to listen and change their mind based on facts.",
+    "synonyms": [
+      "open-minded",
+      "persuasible",
+      "cooperative"
+    ]
+  },
+  {
+    "id": "nonplussed",
+    "term": "nonplussed",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C2",
+    "definition": "Surprised and confused so much that one is not sure how to react.",
+    "polishMeaning": [
+      "zbity z tropu",
+      "zdezorientowany"
+    ],
+    "examples": [
+      "He looked completely nonplussed when the audience started laughing at his serious speech.",
+      "She was momentarily nonplussed by the unexpected question."
+    ],
+    "collocations": [
+      "look nonplussed",
+      "stand nonplussed"
+    ],
+    "usageNote": "Often misused in American English to mean 'unimpressed', but formally it means utterly perplexed (*confused*).",
+    "synonyms": [
+      "perplexed",
+      "baffled",
+      "bewildered"
+    ]
+  },
+  {
+    "id": "inconclusive",
+    "term": "inconclusive",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Not giving a clear result or ending in a definite decision.",
+    "polishMeaning": [
+      "nie rozstrzygający",
+      "nijaki"
+    ],
+    "examples": [
+      "The medical tests were inconclusive, so the doctor ordered more examinations.",
+      "The police investigation remained inconclusive due to a lack of physical evidence."
+    ],
+    "collocations": [
+      "inconclusive results",
+      "inconclusive evidence",
+      "remain inconclusive"
+    ],
+    "usageNote": "Frequently used in scientific, legal, or investigative contexts.",
+    "synonyms": [
+      "unsettled",
+      "indefinite",
+      "ambiguous"
+    ]
+  },
+  {
+    "id": "when-push-comes-to-shove",
+    "term": "when push comes to shove",
+    "partOfSpeech": [
+      "idiom"
+    ],
+    "level": "B2",
+    "definition": "When the situation becomes critical and a decision or action must be taken.",
+    "polishMeaning": [
+      "kiedy przyjdzie co do czego",
+      "jeśli chodzi o"
+    ],
+    "examples": [
+      "When push comes to shove, he always knows how to solve the problem.",
+      "We can talk all we want, but when push comes to shove, hard work is what matters."
+    ],
+    "collocations": [
+      "when push comes to shove"
+    ],
+    "usageNote": "A very popular idiom used when a crisis arrives or pressure mounts.",
+    "synonyms": [
+      "when the crunch comes",
+      "in a pinch"
+    ]
+  },
+  {
+    "id": "to-reminisce",
+    "term": "to reminisce",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "B2",
+    "definition": "To indulge in enjoyable recollection of past events.",
+    "polishMeaning": [
+      "wspominać",
+      "wracać wspomnieniami"
+    ],
+    "examples": [
+      "We spent the evening reminiscing about our university days.",
+      "Old friends often gather to reminisce about the good old times."
+    ],
+    "collocations": [
+      "reminisce about the past",
+      "reminisce with someone"
+    ],
+    "usageNote": "Usually followed by 'about'. Implies pleasant, sentimental memories.",
+    "synonyms": [
+      "recall",
+      "recollect",
+      "muse on"
+    ]
+  },
+  {
+    "id": "aloof",
+    "term": "aloof",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "B2",
+    "definition": "Cool and distant; reserved and not friendly or forthcoming.",
+    "polishMeaning": [
+      "zdystansowany",
+      "chłodny",
+      "powściągliwy"
+    ],
+    "examples": [
+      "Despite being at the party, he remained aloof and didn't talk to anyone.",
+      "She has an aloof manner that can make her seem unfriendly."
+    ],
+    "collocations": [
+      "stand aloof",
+      "keep aloof from",
+      "aloof and distant"
+    ],
+    "usageNote": "Describes someone who intentionally keeps emotional or physical distance from others.",
+    "synonyms": [
+      "distant",
+      "reserved",
+      "unapproachable"
+    ]
+  },
+  {
+    "id": "untenable",
+    "term": "untenable",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Not able to be defended or maintained against attack or objection.",
+    "polishMeaning": [
+      "nie do obrony",
+      "nie do utrzymania"
+    ],
+    "examples": [
+      "The company's financial position was untenable, and bankruptcy was inevitable.",
+      "His excuse for being late was weak and ultimately untenable."
+    ],
+    "collocations": [
+      "untenable position",
+      "financially untenable"
+    ],
+    "usageNote": "Often used in legal, financial, or argumentative contexts to describe a position that cannot logically survive.",
+    "synonyms": [
+      "unsustainable",
+      "indefensible",
+      "unsupportable"
+    ]
+  },
+  {
+    "id": "to-dispel",
+    "term": "to dispel",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "B2",
+    "definition": "To make (a doubt, feeling, or belief) disappear; to drive away or scatter.",
+    "polishMeaning": [
+      "rozwiać",
+      "rozproszyć"
+    ],
+    "examples": [
+      "The teacher’s explanation helped to dispel the students' confusion.",
+      "They released balloons to dispel the balloons of smoke from the factory."
+    ],
+    "collocations": [
+      "dispel fears",
+      "dispel rumors",
+      "dispel the darkness"
+    ],
+    "usageNote": "Refers to clearing away abstract things like doubts, fears, or clouds (literally or figuratively).",
+    "synonyms": [
+      "disperse",
+      "dispel",
+      "dispel"
+    ]
+  },
+  {
+    "id": "grandiose",
+    "term": "grandiose",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Excessively grand or ambitious; trying to seem more important or impressive than is appropriate.",
+    "polishMeaning": [
+      "wielkościowy",
+      "majestatyczny",
+      "rozmachowy"
+    ],
+    "examples": [
+      "He has some grandiose ideas about reforming the entire education system.",
+      "The building's architecture was perhaps too grandiose for the small town."
+    ],
+    "collocations": [
+      "grandiose plans",
+      "grandiose gesture"
+    ],
+    "usageNote": "Can be positive (impressive scale) or negative (pompous, unrealistic). Check context.",
+    "synonyms": [
+      "pretentious",
+      "bombastic",
+      "majestic"
+    ]
+  },
+  {
+    "id": "to-be-fickle",
+    "term": "to be fickle",
+    "partOfSpeech": [
+      "idiom"
+    ],
+    "level": "C2",
+    "definition": "Changing frequently, especially as regards one's loyalties, interests, or affection.",
+    "polishMeaning": [
+      "być zmiennym w uczuciach",
+      "być niestałym"
+    ],
+    "examples": [
+      "The public can be fickle, cheering you one day and criticizing you the next.",
+      "He accused her of being fickle because she changed her mind so often."
+    ],
+    "collocations": [
+      "fickle nature",
+      "fickle crowd"
+    ],
+    "usageNote": "Describes instability in emotions, preferences, or loyalty.",
+    "synonyms": [
+      "capricious",
+      "unstable",
+      "mercurial"
+    ]
+  },
+  {
+    "id": "conundrum",
+    "term": "conundrum",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "C1",
+    "definition": "A confusing and difficult problem or question.",
+    "polishMeaning": [
+      "zagadka",
+      "zagwozdka",
+      "trudny problem"
+    ],
+    "examples": [
+      "How to balance economic growth with environmental protection remains a major conundrum.",
+      "The detective faced a classic locked-room conundrum."
+    ],
+    "collocations": [
+      "solve the conundrum",
+      "face a conundrum",
+      "economic conundrum"
+    ],
+    "usageNote": "Similar to 'riddle' but used more often for serious, real-world problems.",
+    "synonyms": [
+      "riddle",
+      "puzzle",
+      "enigma"
+    ]
+  },
+  {
+    "id": "disdain",
+    "term": "disdain",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "The feeling that someone or something is unworthy of one's consideration or respect.",
+    "polishMeaning": [
+      "pogarda",
+      "wzgardzać"
+    ],
+    "examples": [
+      "She looked at him with disdain when he suggested such a silly idea.",
+      "The critics disdained his early work as unoriginal."
+    ],
+    "collocations": [
+      "show disdain",
+      "with disdain",
+      "express disdain"
+    ],
+    "usageNote": "A strong feeling of superiority over something considered unworthy.",
+    "synonyms": [
+      "contempt",
+      "scorn",
+      "disrespect"
+    ]
+  },
+  {
+    "id": "in-the-vein-of",
+    "term": "in the vein of",
+    "partOfSpeech": [
+      "idiom"
+    ],
+    "level": "C2",
+    "definition": "Similar in style, character, or manner to.",
+    "polishMeaning": [
+      "w duchu",
+      "w stylu"
+    ],
+    "examples": [
+      "The movie was a touching drama, very much in the vein of a classic Hollywood film.",
+      "He writes poetry in the vein of Edgar Allan Poe."
+    ],
+    "collocations": [
+      "in the vein of someone/something",
+      "in the same vein as"
+    ],
+    "usageNote": "Used to compare the style or genre of one work/person to another.",
+    "synonyms": [
+      "similar to",
+      "in the style of",
+      "in the manner of"
+    ]
+  },
+  {
+    "id": "to-pave-the-way",
+    "term": "to pave the way",
+    "partOfSpeech": [
+      "idiom"
+    ],
+    "level": "B2",
+    "definition": "To make a later event or development easier or possible.",
+    "polishMeaning": [
+      "torować drogę",
+      "umożliwiać coś"
+    ],
+    "examples": [
+      "The peace treaty paved the way for the country's reconstruction.",
+      "Her research paved the way for future discoveries in genetics."
+    ],
+    "collocations": [
+      "pave the way for",
+      "pave the way for someone"
+    ],
+    "usageNote": "Implies that an action or event created the conditions for success later on.",
+    "synonyms": [
+      "pave the road",
+      "pave the path",
+      "pave the way"
+    ]
+  },
+  {
+    "id": "to-take-stock",
+    "term": "to take stock",
+    "partOfSpeech": [
+      "idiom"
+    ],
+    "level": "B2",
+    "definition": "To pause and think about a situation carefully before deciding what to do next.",
+    "polishMeaning": [
+      "zrobić rachunek sumienia",
+      "przemyśleć",
+      "ocenić sytuację"
+    ],
+    "examples": [
+      "After failing the exam, he decided to take stock of his life and goals.",
+      "Let's take stock of what we have before making a decision."
+    ],
+    "collocations": [
+      "take stock of",
+      "take stock of the situation"
+    ],
+    "usageNote": "Implies a pause for reflection and re-evaluation of circumstances.",
+    "synonyms": [
+      "assess",
+      "evaluate",
+      "review"
+    ]
+  },
+  {
+    "id": "erstwhile",
+    "term": "erstwhile",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Former; previous (especially of a role or status that has now changed).",
+    "polishMeaning": [
+      "dawny",
+      "były"
+    ],
+    "examples": [
+      "The erstwhile champion returned to the arena to a standing ovation.",
+      "They visited their erstwhile home in the countryside."
+    ],
+    "collocations": [
+      "erstwhile friend",
+      "erstwhile enemy"
+    ],
+    "usageNote": "More formal than 'former'. Often used for relationships or titles that have changed.",
+    "synonyms": [
+      "former",
+      "previous",
+      "past"
+    ]
+  },
+  {
+    "id": "verisimilitude",
+    "term": "verisimilitude",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "C2",
+    "definition": "The appearance of being true or real.",
+    "polishMeaning": [
+      "wiarygodność",
+      "pozorność prawdy"
+    ],
+    "examples": [
+      "The film achieves a high degree of verisimilitude through its meticulous attention to historical detail.",
+      "She tried to add some verisimilitude to her story by including specific dates and names."
+    ],
+    "collocations": [
+      "degree of verisimilitude",
+      "achieve verisimilitude"
+    ],
+    "usageNote": "Used mainly in discussions of art, literature, and film to describe how realistic something seems.",
+    "synonyms": [
+      "realism",
+      "authenticity",
+      "likeness"
+    ]
+  },
+  {
+    "id": "to-stumble-upon",
+    "term": "to stumble upon",
+    "partOfSpeech": [
+      "phrasal verb"
+    ],
+    "level": "B2",
+    "definition": "To find something or meet someone by chance.",
+    "polishMeaning": [
+      "natknąć się na",
+      "przypadkowo znaleźć"
+    ],
+    "examples": [
+      "While cleaning the attic, I stumbled upon some old family photos.",
+      "She stumbled upon the solution while working on a completely different problem."
+    ],
+    "collocations": [
+      "stumble upon a solution",
+      "stumble upon an idea",
+      "stumble upon a place"
+    ],
+    "usageNote": "Implies accidental discovery rather than intentional searching.",
+    "synonyms": [
+      "come across",
+      "hit upon",
+      "stumble across"
+    ]
+  },
+  {
+    "id": "anew",
+    "term": "anew",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "level": "C1",
+    "definition": "Again or anew; starting from the beginning.",
+    "polishMeaning": [
+      "na nowo",
+      "od początku"
+    ],
+    "examples": [
+      "After the setback, they decided to start the project anew.",
+      "The city was rebuilt anew after the war."
+    ],
+    "collocations": [
+      "start anew",
+      "begin anew",
+      "revive anew"
+    ],
+    "usageNote": "More formal than 'again'. Often used with verbs like 'start', 'begin', 'build'.",
+    "synonyms": [
+      "afresh",
+      "again",
+      "anew"
+    ]
+  },
+  {
+    "id": "plausible",
+    "term": "plausible",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "B2",
+    "definition": "Seeming reasonable or probable; believable.",
+    "polishMeaning": [
+      "wiarygodny",
+      "przekonujący",
+      "prawdopodobny"
+    ],
+    "examples": [
+      "His explanation was plausible, but I wasn't entirely convinced.",
+      "That sounds like a plausible explanation.",
+      "She gave a plausible reason for being late."
+    ],
+    "collocations": [
+      "plausible explanation",
+      "plausible excuse",
+      "plausible theory",
+      "plausible deniability"
+    ],
+    "usageNote": "Opposite of 'implausible'. Used when something seems realistic or reasonable even if it might not be true.",
+    "synonyms": [
+      "believable",
+      "credible",
+      "reasonable"
+    ]
+  },
+  {
+    "id": "transfixed",
+    "term": "transfixed",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "B2",
+    "definition": "Caused to-be motionless with horror, wonder, or astonishment.",
+    "polishMeaning": [
+      "unieruchomiony z wrażenia",
+      "zamarły",
+      "wpatrzony jak w obraz"
+    ],
+    "examples": [
+      "The audience sat transfixed as the magician performed the final trick.",
+      "She stood transfixed by the stunning view of the sunset."
+    ],
+    "collocations": [
+      "sit transfixed",
+      "stand transfixed",
+      "transfixed by the sight"
+    ],
+    "usageNote": "Often used when someone is so interested or frightened by something that they cannot move or look away.",
+    "synonyms": [
+      "spellbound",
+      "captivated",
+      "mesmerized"
+    ]
+  },
+  {
+    "id": "vertiginous",
+    "term": "vertiginous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C2",
+    "definition": "Causing or experiencing dizziness, especially from great height.",
+    "polishMeaning": [
+      "zawrotny",
+      "wywołujący zawrót głowy"
+    ],
+    "examples": [
+      "They looked down from the vertiginous heights of the skyscraper.",
+      "The company experienced a vertiginous rise in profits this year."
+    ],
+    "collocations": [
+      "vertiginous height",
+      "vertiginous drop",
+      "vertiginous speed"
+    ],
+    "usageNote": "Formal or literary. Can describe physical heights or metaphorically rapid changes.",
+    "synonyms": [
+      "dizzying",
+      "giddy",
+      "steep"
+    ]
+  },
+  {
+    "id": "to-unveil",
+    "term": "to unveil",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "B2",
+    "definition": "To show or introduce a new plan, product, or secret to the public for the first time.",
+    "polishMeaning": [
+      "odsłaniać",
+      "prezentować",
+      "ujawniać"
+    ],
+    "examples": [
+      "The tech company is planning to unveil its new smartphone tomorrow.",
+      "The museum will unveil the newly restored painting next week."
+    ],
+    "collocations": [
+      "unveil a plan",
+      "unveil a product",
+      "unveil a statue"
+    ],
+    "usageNote": "Literally means to remove a veil or cover, but widely used in business and news for official launches.",
+    "synonyms": [
+      "reveal",
+      "disclose",
+      "launch"
+    ]
+  },
+  {
+    "id": "audacious",
+    "term": "audacious",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Showing a willingness to take surprisingly bold risks.",
+    "polishMeaning": [
+      "śmiały",
+      "zuchwały",
+      "odważny"
+    ],
+    "examples": [
+      "The team came up with an audacious plan to rescue the project.",
+      "It was an audacious move to start a new business during an economic crisis."
+    ],
+    "collocations": [
+      "audacious plan",
+      "audacious attempt",
+      "audacious move"
+    ],
+    "usageNote": "Can describe brave, creative ideas, or behavior that is daringly bold and cheeky.",
+    "synonyms": [
+      "bold",
+      "daring",
+      "fearless"
+    ]
+  },
+  {
+    "id": "luminary",
+    "term": "luminary",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "C2",
+    "definition": "A person who inspires or influences others, especially in a particular sphere.",
+    "polishMeaning": [
+      "wybitna postać",
+      "luminarz",
+      "autorytet"
+    ],
+    "examples": [
+      "Several scientific luminaries attended the conference in Warsaw.",
+      "The event was hosted by literary luminaries from around the world."
+    ],
+    "collocations": [
+      "industry luminary",
+      "leading luminary",
+      "cultural luminary"
+    ],
+    "usageNote": "Formal. Used to describe prominent (*easily noticeable or important*) and highly respected experts.",
+    "synonyms": [
+      "expert",
+      "leader",
+      "pioneer"
+    ]
+  },
+  {
+    "id": "dweller",
+    "term": "dweller",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "B2",
+    "definition": "A person or animal that lives in a specified place.",
+    "polishMeaning": [
+      "mieszkaniec",
+      "lokator"
+    ],
+    "examples": [
+      "City dwellers often suffer from stress caused by noise and traffic.",
+      "Cave dwellers left ancient paintings on the stone walls."
+    ],
+    "collocations": [
+      "city dweller",
+      "urban dweller",
+      "cave dweller"
+    ],
+    "usageNote": "Rarely used on its own; it usually forms a compound noun with a place (e.g., *city dweller*).",
+    "synonyms": [
+      "resident",
+      "inhabitant",
+      "occupant"
+    ]
+  },
+  {
+    "id": "in-dire-need-of",
+    "term": "in dire need of",
+    "partOfSpeech": [
+      "adjective phrase"
+    ],
+    "level": "C1",
+    "definition": "Needing something very badly or urgently.",
+    "polishMeaning": [
+      "w pilnej potrzebie czegoś",
+      "bardzo potrzebujący"
+    ],
+    "examples": [
+      "The historic building is in dire need of repair.",
+      "After a long shift at work, he was in dire need of a good rest."
+    ],
+    "collocations": [
+      "in dire need of assistance",
+      "in dire need of money",
+      "in dire need of reform"
+    ],
+    "usageNote": "The adjective *dire* emphasizes that the situation is extremely serious or severe.",
+    "synonyms": [
+      "desperately needing",
+      "urgently requiring"
+    ]
+  },
+  {
+    "id": "to-harness",
+    "term": "to harness",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "To control and make use of natural resources or ideas, especially to produce energy or achieve a goal.",
+    "polishMeaning": [
+      "wykorzystać",
+      "zaprzęgnąć (np. energię)",
+      "poskromić"
+    ],
+    "examples": [
+      "Engineers are finding new ways to harness solar power efficiently.",
+      "The company wants to harness artificial intelligence to improve customer service."
+    ],
+    "collocations": [
+      "harness energy",
+      "harness power",
+      "harness technology"
+    ],
+    "usageNote": "Commonly used in technology, science, and business contexts when channeling potential power into something productive.",
+    "synonyms": [
+      "utilize",
+      "exploit",
+      "employ"
+    ]
+  },
+  {
+    "id": "to-bid-farewell",
+    "term": "to bid farewell",
+    "partOfSpeech": [
+      "verb phrase"
+    ],
+    "level": "B2",
+    "definition": "To say goodbye to someone or something formally or emotionally.",
+    "polishMeaning": [
+      "pożegnać się",
+      "mówić 'żegnaj'"
+    ],
+    "examples": [
+      "The team gathered to bid farewell to their retiring manager.",
+      "It is always hard to bid farewell to summer and return to cold weather."
+    ],
+    "collocations": [
+      "bid farewell to",
+      "sadly bid farewell"
+    ],
+    "usageNote": "More formal or poetic than simply saying 'to say goodbye'.",
+    "synonyms": [
+      "say goodbye",
+      "take leave",
+      "part ways"
+    ]
+  },
+  {
+    "id": "woe",
+    "term": "woe",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "C2",
+    "definition": "Great sorrow, distress, or troubles.",
+    "polishMeaning": [
+      "żałoba",
+      "niedola",
+      "kłopoty"
+    ],
+    "examples": [
+      "He listened patiently as his friend poured out his financial woes.",
+      "Economic woes have caused many small businesses to close down."
+    ],
+    "collocations": [
+      "economic woes",
+      "financial woes",
+      "tales of woe"
+    ],
+    "usageNote": "Often used in the plural form (*woes*) in journalism to describe series of problems or troubles.",
+    "synonyms": [
+      "trouble",
+      "misery",
+      "distress"
+    ]
+  },
+  {
+    "id": "to-cease",
+    "term": "to cease",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "B2",
+    "definition": "To bring or come to an end.",
+    "polishMeaning": [
+      "przestać",
+      "ustawać",
+      "zaprzestać"
+    ],
+    "examples": [
+      "The factory will cease production of diesel engines next year.",
+      "Rain is expected to cease by tomorrow morning."
+    ],
+    "collocations": [
+      "cease fire",
+      "cease operations",
+      "cease to exist"
+    ],
+    "usageNote": "Formal verb. Often used in legal, business, or official contexts instead of 'stop'.",
+    "synonyms": [
+      "stop",
+      "terminate",
+      "halt"
+    ]
+  },
+  {
+    "id": "staggering",
+    "term": "staggering",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Deeply shocking, astonishing, or overwhelming.",
+    "polishMeaning": [
+      "oszałamiający",
+      "zdumiewający"
+    ],
+    "examples": [
+      "The project was completed in a staggering three weeks.",
+      "They reported staggering losses after the market crash."
+    ],
+    "collocations": [
+      "staggering amount",
+      "staggering cost",
+      "staggering success"
+    ],
+    "usageNote": "Used to emphasize that a number, amount, or fact is surprisingly large.",
+    "synonyms": [
+      "astounding",
+      "shocking",
+      "mind-boggling"
+    ]
+  },
+  {
+    "id": "paramount",
+    "term": "paramount",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "More important than anything else; supreme.",
+    "polishMeaning": [
+      "nadrzędny",
+      "najważniejszy"
+    ],
+    "examples": [
+      "Patient safety is of paramount importance in our hospital.",
+      "Resolving this issue is paramount to the success of the merger."
+    ],
+    "collocations": [
+      "of paramount importance",
+      "paramountcy",
+      "paramount duty"
+    ],
+    "usageNote": "Frequently paired with 'importance' or 'to' when describing top priorities.",
+    "synonyms": [
+      "supreme",
+      "chief",
+      "foremost"
+    ]
+  },
+  {
+    "id": "to-ascertain",
+    "term": "to ascertain",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "To find something out for certain; to make sure of.",
+    "polishMeaning": [
+      "ustalić",
+      "upewnić się",
+      "dowiedzieć się"
+    ],
+    "examples": [
+      "An investigation was launched to ascertain the cause of the accident.",
+      "Please ascertain whether the meeting room is available."
+    ],
+    "collocations": [
+      "ascertain the facts",
+      "ascertain the cause",
+      "help to ascertain"
+    ],
+    "usageNote": "Formal and professional term used when discovering accurate information.",
+    "synonyms": [
+      "find out",
+      "discover",
+      "determine"
+    ]
+  },
+  {
+    "id": "constituent",
+    "term": "constituent",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "A part of a whole, or a voter in a specific electoral district.",
+    "polishMeaning": [
+      "składnik",
+      "wyborca"
+    ],
+    "examples": [
+      "Nitrogen is a major constituent of the Earth's atmosphere.",
+      "The politician met with local constituents to discuss housing."
+    ],
+    "collocations": [
+      "key constituent",
+      "chemical constituent",
+      "local constituent"
+    ],
+    "usageNote": "Can describe physical components/ingredients or political voters depending on the context.",
+    "synonyms": [
+      "component",
+      "element",
+      "ingredient"
+    ]
+  },
+  {
+    "id": "tangible",
+    "term": "tangible",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Clear enough to be touched, seen, or clearly identified.",
+    "polishMeaning": [
+      "namacalny",
+      "realny",
+      "wyczuwalny"
+    ],
+    "examples": [
+      "The training program delivered tangible results within a month.",
+      "Archaeologists found tangible evidence of an ancient settlement."
+    ],
+    "collocations": [
+      "tangible evidence",
+      "tangible results",
+      "tangible assets"
+    ],
+    "usageNote": "Often contrasted with abstract ideas to highlight physical or measurable proof.",
+    "synonyms": [
+      "palpable",
+      "real",
+      "concrete"
+    ]
+  },
+  {
+    "id": "to-be-slated",
+    "term": "to be slated",
+    "partOfSpeech": [
+      "verb phrase"
+    ],
+    "level": "C1",
+    "definition": "Scheduled or expected to happen in the future.",
+    "polishMeaning": [
+      "mieć w planach",
+      "być zaplanowanym"
+    ],
+    "examples": [
+      "The new software update is slated for release next Friday.",
+      "He is slated to take over as CEO at the end of the year."
+    ],
+    "collocations": [
+      "slated for release",
+      "slated to happen",
+      "be slated as"
+    ],
+    "usageNote": "Very common in business and media when discussing timetables and schedules.",
+    "synonyms": [
+      "scheduled",
+      "planned",
+      "destined"
+    ]
+  },
+  {
+    "id": "shrouded-in-mystery",
+    "term": "shrouded in mystery",
+    "partOfSpeech": [
+      "idiom"
+    ],
+    "level": "C1",
+    "definition": "Not known, understood, or revealed; kept secret.",
+    "polishMeaning": [
+      "otoczony tajemnicą"
+    ],
+    "examples": [
+      "The billionaire's early life remains shrouded in mystery.",
+      "The true origins of the artifact are still shrouded in mystery."
+    ],
+    "collocations": [
+      "remain shrouded in mystery",
+      "shrouded in secrecy"
+    ],
+    "usageNote": "Adds a dramatic or literary tone when describing unexplained topics or histories.",
+    "synonyms": [
+      "obscure",
+      "unexplained",
+      "secretive"
+    ]
+  },
+  {
+    "id": "laden",
+    "term": "laden",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C2",
+    "definition": "Heavily loaded or weighed down.",
+    "polishMeaning": [
+      "obciążony",
+      "załadowany"
+    ],
+    "examples": [
+      "The apple trees were laden with ripe fruit.",
+      "She walked home laden with shopping bags."
+    ],
+    "collocations": [
+      "laden with",
+      "heavily laden"
+    ],
+    "usageNote": "Often used in descriptive or literary contexts to show something is carrying a heavy load.",
+    "synonyms": [
+      "loaded",
+      "burdened",
+      "weighted"
+    ]
+  },
+  {
+    "id": "sweltering",
+    "term": "sweltering",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Uncomfortably hot.",
+    "polishMeaning": [
+      "upalny",
+      "duszny",
+      "parny"
+    ],
+    "examples": [
+      "We tried to stay cool during the sweltering summer afternoons.",
+      "The workers labored under the sweltering sun."
+    ],
+    "collocations": [
+      "sweltering heat",
+      "sweltering weather",
+      "sweltering conditions"
+    ],
+    "usageNote": "Describes extreme, exhausting heat that makes you sweat.",
+    "synonyms": [
+      "blistering",
+      "scorching",
+      "boiling"
+    ]
+  },
+  {
+    "id": "scourge",
+    "term": "scourge",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "(n) A person or thing that causes, or is thought to cause, great trouble or suffering; (v) To afflict someone with, or to search thoroughly.",
+    "polishMeaning": [
+      "plaga",
+      "zmora",
+      "dręczyć"
+    ],
+    "examples": [
+      "(n) Poverty is a terrible scourge affecting millions worldwide.",
+      "(v) The disease scourged the community for years."
+    ],
+    "collocations": [
+      "a scourge upon",
+      "to scourge the land"
+    ],
+    "usageNote": "Often used with a strong sense of disaster or punishment. As a noun, it refers to a cause of great suffering.",
+    "synonyms": [
+      "plague",
+      "bane",
+      "affliction"
+    ]
+  },
+  {
+    "id": "bask",
+    "term": "bask",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "B2",
+    "definition": "To lie exposed to warmth and light, typically from the sun, for relaxation or pleasure; to enjoy or derive pleasure from a particular experience.",
+    "polishMeaning": [
+      "wygrzewać się",
+      "cieszyć się"
+    ],
+    "examples": [
+      "The cat lay on the windowsill, basking in the warm sun.",
+      "After winning the championship, the team basked in the glory."
+    ],
+    "collocations": [
+      "bask in the sun",
+      "bask in the glory",
+      "bask in admiration"
+    ],
+    "usageNote": "Can be used literally for sunbathing or metaphorically for enjoying praise or attention.",
+    "synonyms": [
+      "revel",
+      "soak up",
+      "enjoy"
+    ]
+  },
+  {
+    "id": "benevolent",
+    "term": "benevolent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "B2",
+    "definition": "Well meaning and kindly.",
+    "polishMeaning": [
+      "dobroczynny",
+      "życzliwy",
+      "łaskawy"
+    ],
+    "examples": [
+      "The benevolent queen was loved by her subjects.",
+      "She has a benevolent smile that makes everyone feel at ease."
+    ],
+    "collocations": [
+      "benevolent ruler",
+      "benevolent organization"
+    ],
+    "usageNote": "The opposite of *malevolent*.",
+    "synonyms": [
+      "kind",
+      "good-natured",
+      "compassionate"
+    ]
+  },
+  {
+    "id": "boisterous",
+    "term": "boisterous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "B2",
+    "definition": "Noisy, energetic, and cheerful; rowdy.",
+    "polishMeaning": [
+      "hałaśliwy",
+      "gwarny",
+      "żywy"
+    ],
+    "examples": [
+      "The children’s boisterous laughter filled the park.",
+      "It was a boisterous party with music and dancing."
+    ],
+    "collocations": [
+      "boisterous crowd",
+      "boisterous laughter"
+    ],
+    "usageNote": "Usually describes happy, uncontrolled energy, often associated with groups of young people.",
+    "synonyms": [
+      "rowdy",
+      "lively",
+      "energetic"
+    ]
+  },
+  {
+    "id": "unctuous",
+    "term": "unctuous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Excessively flattering or ingratiating; oily or greasy in manner.",
+    "polishMeaning": [
+      "przesadnie uprzejmy",
+      "mdły",
+      "nachalnie miły"
+    ],
+    "examples": [
+      "The salesperson’s unctuous tone made me suspicious.",
+      "He gave an unctuous apology that didn't sound sincere."
+    ],
+    "collocations": [
+      "unctuous tone",
+      "unctuous manner"
+    ],
+    "usageNote": "Has a negative connotation, suggesting insincerity or fakeness.",
+    "synonyms": [
+      "oily",
+      "smarmy",
+      "insincere"
+    ]
+  },
+  {
+    "id": "beguile",
+    "term": "beguile",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "To charm or enchant (someone), often in a deceptive way.",
+    "polishMeaning": [
+      "czarować",
+      "urzekać",
+      "zwodzić"
+    ],
+    "examples": [
+      "She tried to beguile the guards with her charm and wit.",
+      "The beautiful music beguiled him into staying longer."
+    ],
+    "collocations": [
+      "beguile someone into doing something"
+    ],
+    "usageNote": "Similar to 'charm', but often implies a degree of trickery or manipulation.",
+    "synonyms": [
+      "charm",
+      "enchant",
+      "fascinate"
+    ]
+  },
+  {
+    "id": "stolid",
+    "term": "stolid",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Calm, dependable, and showing little emotion or animation.",
+    "polishMeaning": [
+      "oparte",
+      "obojętny",
+      "spokojny"
+    ],
+    "examples": [
+      "Despite the chaos, he remained stolid and focused.",
+      "She has a stolid expression that makes her hard to read."
+    ],
+    "collocations": [
+      "stolid expression",
+      "stolid reply"
+    ],
+    "usageNote": "Suggests a lack of visible reaction or emotion, which can sometimes seem unfriendly.",
+    "synonyms": [
+      "stoic",
+      "unemotional",
+      "impassive"
+    ]
+  },
+  {
+    "id": "to-infiltrate",
+    "term": "to infiltrate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "To enter or gain access to an organization or place secretly and gradually, especially in order to acquire information or influence.",
+    "polishMeaning": [
+      "przeniknąć",
+      "wślizgnąć się",
+      "szpiegować"
+    ],
+    "examples": [
+      "The spy managed to infiltrate the enemy's headquarters.",
+      "We need to infiltrate the market."
+    ],
+    "collocations": [
+      "infiltrate the organization",
+      "infiltrate the enemy",
+      "infiltrate the market"
+    ],
+    "usageNote": "Implies secrecy and gradual entry, often for negative purposes like spying or taking over.",
+    "synonyms": [
+      "infiltrate",
+      "infiltrate",
+      "infiltrate"
+    ]
+  },
+  
+  {
+    "id": "abide-by",
+    "term": "abide by",
+    "partOfSpeech": [
+      "phrasal verb"
+    ],
+    "level": "B2",
+    "definition": "To accept or follow a decision, rule, or agreement.",
+    "polishMeaning": [
+      "przestrzegać",
+      "trzymać się"
+    ],
+    "examples": [
+      "All employees must abide by the company’s code of conduct.",
+      "You have to abide by the rules if you want to win."
+    ],
+    "collocations": [
+      "abide by the law",
+      "abide by the rules",
+      "abide by the decision"
+    ],
+    "usageNote": "Expresses compliance and agreement to follow something established or decided.",
+    "synonyms": [
+      "obey",
+      "follow",
+      "comply with"
+    ]
+  },
+  {
+    "id": "ardent",
+    "term": "ardent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Enthusiastic or passionate.",
+    "polishMeaning": [
+      "żarliwy",
+      "żarliwy",
+      "gorący"
+    ],
+    "examples": [
+      "He is an ardent supporter of environmental protection.",
+      "She made an ardent plea for peace."
+    ],
+    "collocations": [
+      "ardent admirer",
+      "ardent supporter",
+      "ardent belief"
+    ],
+    "usageNote": "Describes strong, fiery passion, often used in formal or literary contexts.",
+    "synonyms": [
+      "passionate",
+      "enthusiastic",
+      "fervent"
+    ]
+  },
+  {
+    "id": "austere",
+    "term": "austere",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Severe or strict in manner, attitude, or appearance; plain and simple.",
+    "polishMeaning": [
+      "surowy",
+      "skromny",
+      "umiarkowany"
+    ],
+    "examples": [
+      "The monastery was austere and isolated.",
+      "He lived an austere lifestyle with no luxury."
+    ],
+    "collocations": [
+      "austere lifestyle",
+      "austere conditions",
+      "austere beauty"
+    ],
+    "usageNote": "Can describe a person's character, a place, or a style that is very plain and serious.",
+    "synonyms": [
+      "severe",
+      "strict",
+      "plain"
+    ]
+  },
+  {
+    "id": "behemoth",
+    "term": "behemoth",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "C1",
+    "definition": "A very large or powerful person, thing, or institution.",
+    "polishMeaning": [
+      "potwór",
+      "wielka instytucja",
+      "gigant"
+    ],
+    "examples": [
+      "The multinational corporation is a true behemoth in the industry.",
+      "The crashed airplane looked like a wounded behemoth."
+    ],
+    "collocations": [
+      "industrial behemoth",
+      "corporate behemoth"
+    ],
+    "usageNote": "Often used for large companies or institutions to emphasize their power and size.",
+    "synonyms": [
+      "giant",
+      "titan",
+      "monster"
+    ]
+  },
+  {
+    "id": "beseech",
+    "term": "beseech",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "To ask urgently or fervently to do something; to beg.",
+    "polishMeaning": [
+      "błagać",
+      "prosić usilnie"
+    ],
+    "examples": [
+      "I beseech you to reconsider your decision.",
+      "She beseeched him to stay."
+    ],
+    "collocations": [
+      "beseech someone to do something"
+    ],
+    "usageNote": "A formal and intense way of asking for something, often used in literature or very serious requests.",
+    "synonyms": [
+      "beg",
+      "implore",
+      "plead"
+    ]
+  },
+  {
+    "id": "cajole",
+    "term": "cajole",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "To persuade someone to do something by flattering or coaxing them.",
+    "polishMeaning": [
+      "namawiać",
+      "przekonywać pochlebstwami"
+    ],
+    "examples": [
+      "He tried to cajole her into lending him money.",
+      "She cajoled the children into cleaning their room."
+    ],
+    "collocations": [
+      "cajole someone into doing something"
+    ],
+    "usageNote": "Similar to persuade, but emphasizes using flattery or gentle persuasion rather than logic.",
+    "synonyms": [
+      "persuade",
+      "coax",
+      "wheedle"
+    ]
+  },
+  {
+    "id": "draconian",
+    "term": "draconian",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Excessively harsh and severe (typically used for laws, rules, or measures).",
+    "polishMeaning": [
+      "drakoński",
+      "drastyczny"
+    ],
+    "examples": [
+      "The new security measures were seen as draconian.",
+      "The government imposed draconian punishments for petty crimes."
+    ],
+    "collocations": [
+      "draconian measures",
+      "draconian law"
+    ],
+    "usageNote": "Used to describe punishments or rules that are much stricter than necessary.",
+    "synonyms": [
+      "harsh",
+      "severe",
+      "extreme"
+    ]
+  },
+  {
+    "id": "jaded",
+    "term": "jaded",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "B2",
+    "definition": "Tired, bored, or lacking enthusiasm, typically after having had too much of something.",
+    "polishMeaning": [
+      "zmęczony",
+      "znużony",
+      "przesycany"
+    ],
+    "examples": [
+      "After years of working in the same job, she felt jaded.",
+      "He was jaded by the constant negativity online."
+    ],
+    "collocations": [
+      "jaded traveler",
+      "jaded by something"
+    ],
+    "usageNote": "Describes someone who has lost interest due to overexposure or lack of novelty.",
+    "synonyms": [
+      "weary",
+      "bored",
+      "disillusioned"
+    ]
+  },
+  {
+    "id": "benevolence",
+    "term": "benevolence",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "C1",
+    "definition": "The quality of being well meaning; kindness.",
+    "polishMeaning": [
+      "życzliwość",
+      "dobroczynność"
+    ],
+    "examples": [
+      "The charity is known for its benevolence toward local communities.",
+      "She smiled with genuine benevolence."
+    ],
+    "collocations": [
+      "acts of benevolence",
+      "show benevolence"
+    ],
+    "usageNote": "Formal noun used to describe a generous, kind disposition.",
+    "synonyms": [
+      "kindness",
+      "generosity",
+      "goodwill"
+    ]
+  },
+  {
+    "id": "phony",
+    "term": "phony",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "level": "B2",
+    "definition": "Not genuine; fraudulent.",
+    "polishMeaning": [
+      "fałszywy",
+      "nieszczery",
+      "oszust"
+    ],
+    "examples": [
+      "He was arrested for using a phony passport.",
+      "I could tell her smile was completely phony."
+    ],
+    "collocations": [
+      "phony passport",
+      "phony smile"
+    ],
+    "usageNote": "Informal term used to describe fake items or insincere people.",
+    "synonyms": [
+      "fake",
+      "fraudulent",
+      "bogus"
+    ]
+  },
+  {
+    "id": "noble",
+    "term": "noble",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "B2",
+    "definition": "Having exemplary moral principles; or belonging to the aristocracy.",
+    "polishMeaning": [
+      "szlachetny",
+      "aryokratyczny"
+    ],
+    "examples": [
+      "Fighting for freedom is a noble cause.",
+      "He came from a noble family."
+    ],
+    "collocations": [
+      "noble cause",
+      "noble character"
+    ],
+    "usageNote": "Can describe high moral character or social rank.",
+    "synonyms": [
+      "righteous",
+      "honorable",
+      "virtuous"
+    ]
+  },
+  {
+    "id": "gullibility",
+    "term": "gullibility",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "level": "C1",
+    "definition": "Tendency to be easily persuaded that something is true.",
+    "polishMeaning": [
+      "łatwiewierność",
+      "naiwność"
+    ],
+    "examples": [
+      "The scammer took advantage of the elderly person's gullibility.",
+      "His gullibility makes him an easy target for online tricks."
+    ],
+    "collocations": [
+      "exploit someone's gullibility",
+      "pure gullibility"
+    ],
+    "usageNote": "Used when someone believes things too easily without checking facts.",
+    "synonyms": [
+      "naivety",
+      "credulity"
+    ]
+  },
+  {
+    "id": "ostensibly",
+    "term": "ostensibly",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "level": "C1",
+    "definition": "As stated or appearing, but perhaps not actually true.",
+    "polishMeaning": [
+      "rzekomo",
+      "na pozór"
+    ],
+    "examples": [
+      "The trip was ostensibly for business, but they spent most of the time sightseeing.",
+      "He came to the meeting ostensibly to help."
+    ],
+    "collocations": [
+      "ostensibly designed",
+      "ostensibly for"
+    ],
+    "usageNote": "Used when the apparent reason might be different from the real one.",
+    "synonyms": [
+      "seemingly",
+      "apparently",
+      "supposedly"
+    ]
+  },
+  {
+    "id": "sham",
+    "term": "sham",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "A thing that is not what it is purported to be.",
+    "polishMeaning": [
+      "fałszerstwo",
+      "oszustwo",
+      "udawany"
+    ],
+    "examples": [
+      "The election was exposed as a complete sham.",
+      "He claimed his illness was a sham to avoid work."
+    ],
+    "collocations": [
+      "total sham",
+      "sham marriage"
+    ],
+    "usageNote": "Describes something fake designed to deceive people.",
+    "synonyms": [
+      "imitation",
+      "fraud",
+      "pretence"
+    ]
+  },
+  {
+    "id": "gloat-over",
+    "term": "to gloat over somebody/something",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "To dwell on one's own success or another's misfortune with smugness.",
+    "polishMeaning": [
+      "zlewick się z czegoś",
+      "triumfować złośliwie"
+    ],
+    "examples": [
+      "It is not polite to gloat over your opponent's defeat.",
+      "He gloated over his high test score."
+    ],
+    "collocations": [
+      "gloat over a victory",
+      "gloat over failure"
+    ],
+    "usageNote": "Always followed by 'over' when targeting a specific situation or person.",
+    "synonyms": [
+      "relish",
+      "crow over",
+      "exult"
+    ]
+  },
+  {
+    "id": "to-barrage",
+    "term": "to barrage",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "level": "C1",
+    "definition": "To bombard someone with a great number of questions or complaints.",
+    "polishMeaning": [
+      "zasypywać (np. pytaniami)"
+    ],
+    "examples": [
+      "Reporters barraged the CEO with questions after the announcement.",
+      "She was barraged with emails when she returned from holiday."
+    ],
+    "collocations": [
+      "barrage with questions",
+      "barrage with complaints"
+    ],
+    "usageNote": "Often used passively when someone is overwhelmed by a sudden flood of inputs.",
+    "synonyms": [
+      "bombard",
+      "assail",
+      "pelt"
+    ]
+  },
+  {
+    "id": "dubious",
+    "term": "dubious",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "level": "C1",
+    "definition": "Hesitating or doubting; not to be relied upon.",
+    "polishMeaning": [
+      "wątpliwy",
+      "podejrzany"
+    ],
+    "examples": [
+      "I was dubious about his promise to finish the project on time.",
+      "They invested money in a dubious scheme."
+    ],
+    "collocations": [
+      "dubious honor",
+      "dubious claim",
+      "look dubious"
+    ],
+    "usageNote": "Used to express suspicion or a lack of trust.",
+    "synonyms": [
+      "doubtful",
+      "skeptical",
+      "questionable"
+    ]
+  },
+  {
+    "id": "to-cash-in-on",
+    "term": "to cash in on somebody/something",
+    "partOfSpeech": [
+      "phrasal verb"
+    ],
+    "level": "C1",
+    "definition": "To profit or take advantage of a situation or person.",
+    "polishMeaning": [
+      "zbijać kapitał na czymś",
+      "zarobić na czymś"
+    ],
+    "examples": [
+      "The company tried to cash in on the new health trend by releasing a juice.",
+      "He cashed in on his sudden fame by writing a book."
+    ],
+    "collocations": [
+      "cash in on a trend",
+      "cash in on popularity"
+    ],
+    "usageNote": "Often carries a slightly negative tone implying exploitation of an opportunity.",
+    "synonyms": [
+      "capitalize on",
+      "profit from",
+      "exploit"
+    ]
+  }
+]
