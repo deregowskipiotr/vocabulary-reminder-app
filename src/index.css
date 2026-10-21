@@ -313,3 +313,135 @@
     transparent 100%
   );
 }
+
+/* ==========================================================
+   MOBILE-ONLY REFINED ANIMATIONS (< 768px)
+   Desktop (>= 768px) is 100% preserved and untouched
+   ========================================================== */
+
+@media (max-width: 767px) {
+  /* 1. Mobile Smooth Word Appearance Animation */
+  @keyframes mobileWordEntrance {
+    0% {
+      opacity: 0;
+      transform: translateY(12px) scale(0.985);
+      filter: blur(4px);
+    }
+    50% {
+      opacity: 0.85;
+      filter: blur(1px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+      filter: blur(0px);
+    }
+  }
+
+  .mobile-word-transition {
+    animation: mobileWordEntrance 0.45s cubic-bezier(0.16, 1, 0.3, 1) both;
+    will-change: transform, opacity, filter;
+  }
+
+  /* 2. Mobile Smooth Polish Meaning Accordion & Word Reveal */
+  .mobile-polish-accordion {
+    display: grid;
+    grid-template-rows: 0fr;
+    opacity: 0;
+    margin-top: 0;
+    transition: grid-template-rows 420ms cubic-bezier(0.16, 1, 0.3, 1),
+                opacity 380ms ease,
+                margin-top 420ms cubic-bezier(0.16, 1, 0.3, 1);
+    pointer-events: none;
+    overflow: hidden;
+  }
+
+  .mobile-polish-accordion.is-expanded {
+    grid-template-rows: 1fr;
+    opacity: 1;
+    margin-top: 0.75rem;
+    pointer-events: auto;
+  }
+
+  .mobile-polish-accordion > div {
+    overflow: hidden;
+    min-height: 0;
+  }
+
+  .mobile-polish-accordion.is-expanded .mobile-polish-content {
+    animation: mobilePolishReveal 420ms cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+
+  @keyframes mobilePolishReveal {
+    0% {
+      opacity: 0;
+      transform: translateY(-8px);
+      filter: blur(3px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+      filter: blur(0px);
+    }
+  }
+
+  .mobile-polish-accordion.is-expanded .mobile-polish-badge {
+    animation: mobileBadgeFadeIn 380ms cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+
+  @keyframes mobileBadgeFadeIn {
+    0% {
+      opacity: 0;
+      transform: scale(0.94) translateY(5px);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1) translateY(0);
+    }
+  }
+}
+
+/* Desktop override: Keep original styling, no mobile animations */
+@media (min-width: 768px) {
+  .mobile-word-transition {
+    animation: none !important;
+    transform: none !important;
+    filter: none !important;
+  }
+
+  .mobile-polish-accordion {
+    display: grid;
+    transition: grid-template-rows 500ms ease-in-out, opacity 500ms ease-in-out, margin-top 500ms ease-in-out;
+  }
+
+  .mobile-polish-accordion:not(.is-expanded) {
+    grid-template-rows: 0fr;
+    opacity: 0;
+    margin-top: 0;
+    pointer-events: none;
+  }
+
+  .mobile-polish-accordion.is-expanded {
+    grid-template-rows: 1fr;
+    opacity: 1;
+    margin-top: 1rem;
+    pointer-events: auto;
+  }
+
+  .mobile-polish-accordion > div {
+    overflow: hidden;
+    min-height: 0;
+  }
+
+  .mobile-polish-content {
+    animation: none !important;
+    transform: none !important;
+    filter: none !important;
+  }
+
+  .mobile-polish-badge {
+    animation: none !important;
+    transform: none !important;
+  }
+}
+

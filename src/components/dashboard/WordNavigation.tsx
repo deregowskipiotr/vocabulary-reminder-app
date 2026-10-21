@@ -1,6 +1,7 @@
 import React from 'react';
 import { ChevronLeft, ChevronRight, Shuffle, RotateCcw } from 'lucide-react';
 import { MetallicButton } from '@/ui/MetallicButton';
+import { smoothScrollToTop } from '@/utils/scrollUtils';
 
 interface WordNavigationProps {
   currentIndex: number;
@@ -23,9 +24,7 @@ export const WordNavigation: React.FC<WordNavigationProps> = ({
 
   const handleAction = (action: () => void) => {
     action();
-    if (typeof window !== 'undefined') {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
+    smoothScrollToTop();
   };
 
   return (

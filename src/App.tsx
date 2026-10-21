@@ -6,6 +6,7 @@ import { WordCard } from '@/components/dashboard/WordCard';
 import { WordNavigation } from '@/components/dashboard/WordNavigation';
 import { WordQuickList } from '@/components/dashboard/WordQuickList';
 import { WordStats } from '@/components/dashboard/WordStats';
+import { smoothScrollToTop } from '@/utils/scrollUtils';
 
 export const App: React.FC = () => {
   const {
@@ -37,9 +38,7 @@ export const App: React.FC = () => {
       isFirstRender.current = false;
       return;
     }
-    if (typeof window !== 'undefined') {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
+    smoothScrollToTop();
   }, [currentIndex]);
 
   // Keyboard accessibility: Left/Right arrows for navigation
@@ -66,9 +65,7 @@ export const App: React.FC = () => {
 
   const handleSelectWord = (id: string) => {
     selectWordById(id);
-    if (typeof window !== 'undefined') {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
+    smoothScrollToTop();
   };
 
   return (
