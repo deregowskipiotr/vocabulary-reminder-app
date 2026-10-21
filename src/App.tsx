@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, /*useRef */ } from 'react';
 import { useSpeech } from '@/hooks/useSpeech';
 import { useVocabularyDashboard } from '@/hooks/useVocabularyDashboard';
 import { DashboardHeader } from '@/components/dashboard/DashboardHeader';
@@ -30,16 +30,16 @@ export const App: React.FC = () => {
   } = useVocabularyDashboard();
 
   const { speak, isSpeaking } = useSpeech();
-  const isFirstRender = useRef(true);
+  //const isFirstRender = useRef(true);
 
   // Smooth scroll to top position on word navigation
-  useEffect(() => {
+  {/*useEffect(() => {
     if (isFirstRender.current) {
       isFirstRender.current = false;
       return;
     }
     smoothScrollToTop();
-  }, [currentIndex]);
+  }, [currentIndex]); */}
 
   // Keyboard accessibility: Left/Right arrows for navigation
   useEffect(() => {

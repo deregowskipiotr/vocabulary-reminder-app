@@ -1,6 +1,7 @@
 import React from 'react';
 import { ChevronLeft, ChevronRight, Shuffle, RotateCcw } from 'lucide-react';
 import { MetallicButton } from '@/ui/MetallicButton';
+import { smoothScrollToTop } from '@/utils/scrollUtils';
 
 
 interface WordNavigationProps {
@@ -24,6 +25,7 @@ export const WordNavigation: React.FC<WordNavigationProps> = ({
 
   const handleAction = (action: () => void) => {
     action();
+    smoothScrollToTop();
   };
 
   return (
