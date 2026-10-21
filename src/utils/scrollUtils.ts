@@ -17,17 +17,18 @@ export const smoothScrollToTop = (overrideIsMobile?: boolean): void => {
       ? overrideIsMobile
       : window.innerWidth < 768;
 
-  if (isMobile) {
-    if (activeScrollRafId !== null) {
-      cancelAnimationFrame(activeScrollRafId);
-      activeScrollRafId = null;
-    }
+  // Always cancel any active scroll animation immediately to prevent fights
+  if (activeScrollRafId !== null) {
+    cancelAnimationFrame(activeScrollRafId);
+    activeScrollRafId = null;
+  }
 
+  if (isMobile) {
     const startY = window.scrollY || document.documentElement.scrollTop;
-    if (startY <= 4) {
-      window.scrollTo(0, 0);
-      return;
-    }
+  if (startY <= 4) {
+    window.scrollTo(0, 0);
+    return;
+  }
 
     const duration = 480; // ms - silky luxury duration
     const startTime = performance.now();
