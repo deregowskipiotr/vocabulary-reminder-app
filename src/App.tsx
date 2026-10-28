@@ -1,4 +1,4 @@
-import React, { useEffect, /*useRef */ } from 'react';
+import React, { useEffect } from 'react';
 import { useSpeech } from '@/hooks/useSpeech';
 import { useVocabularyDashboard } from '@/hooks/useVocabularyDashboard';
 import { DashboardHeader } from '@/components/dashboard/DashboardHeader';
@@ -6,7 +6,7 @@ import { WordCard } from '@/components/dashboard/WordCard';
 import { WordNavigation } from '@/components/dashboard/WordNavigation';
 import { WordQuickList } from '@/components/dashboard/WordQuickList';
 import { WordStats } from '@/components/dashboard/WordStats';
-import { smoothScrollToTop } from '@/utils/scrollUtils';
+import { scrollThenAct } from '@/utils/scrollUtils';
 
 export const App: React.FC = () => {
   const {
@@ -30,16 +30,6 @@ export const App: React.FC = () => {
   } = useVocabularyDashboard();
 
   const { speak, isSpeaking } = useSpeech();
-  //const isFirstRender = useRef(true);
-
-  // Smooth scroll to top position on word navigation
-  {/*useEffect(() => {
-    if (isFirstRender.current) {
-      isFirstRender.current = false;
-      return;
-    }
-    smoothScrollToTop();
-  }, [currentIndex]); */}
 
   // Keyboard accessibility: Left/Right arrows for navigation
   useEffect(() => {
@@ -64,8 +54,7 @@ export const App: React.FC = () => {
   }, [nextWord, prevWord]);
 
   const handleSelectWord = (id: string) => {
-    selectWordById(id);
-    smoothScrollToTop();
+    scrollThenAct(() => selectWordById(id));
   };
 
   return (
