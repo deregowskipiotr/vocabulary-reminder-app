@@ -43,9 +43,9 @@ export const App: React.FC = () => {
       }
 
       if (e.key === 'ArrowRight') {
-        nextWord();
+        scrollThenAct(nextWord);
       } else if (e.key === 'ArrowLeft') {
-        prevWord();
+        scrollThenAct(prevWord);
       }
     };
 

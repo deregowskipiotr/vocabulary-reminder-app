@@ -14,13 +14,45 @@ let activeScrollRafId: number | null = null;
 // Quartic ease-out: ultra-smooth deceleration without abrupt stop
 const easeOutQuart = (t: number) => 1 - Math.pow(1 - t, 4);
 
+/** Check if the user prefers reduced motion */
+const prefersReducedMotion = (): boolean =>
+  typeof window !== 'undefined' &&
+  window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+// Events that indicate the user is manually scrolling
+const USER_SCROLL_EVENTS: string[] = ['wheel', 'touchstart', 'touchmove'];
+
+/** Remove gesture listeners that cancel the animation */
+const removeGestureListeners = (): void => {
+  for (const evt of USER_SCROLL_EVENTS) {
+    window.removeEventListener(evt, onUserScroll);
+  }
+};
+
+/** Handler: cancel the active animation when the user scrolls manually */
+function onUserScroll(): void {
+  cancelActiveScroll();
+}
+
 /**
  * Starts the mobile RAF scroll animation loop.
  * Extracted so it can be invoked independently of state updates.
+ * Respects prefers-reduced-motion (instant jump) and cancels on user gestures.
  */
 const startMobileScrollAnimation = (startY: number): void => {
+  // Reduced-motion: jump immediately, no animation
+  if (prefersReducedMotion()) {
+    window.scrollTo(0, 0);
+    return;
+  }
+
   const duration = 480; // ms - silky luxury duration
   const startTime = performance.now();
+
+  // Listen for user-initiated scroll gestures so we can cancel
+  for (const evt of USER_SCROLL_EVENTS) {
+    window.addEventListener(evt, onUserScroll, { passive: true, once: true });
+  }
 
   const step = (currentTime: number) => {
     const elapsed = currentTime - startTime;
@@ -34,6 +66,7 @@ const startMobileScrollAnimation = (startY: number): void => {
     } else {
       activeScrollRafId = null;
       window.scrollTo(0, 0);
+      removeGestureListeners();
     }
   };
 
@@ -45,6 +78,7 @@ const cancelActiveScroll = (): void => {
   if (activeScrollRafId !== null) {
     cancelAnimationFrame(activeScrollRafId);
     activeScrollRafId = null;
+    removeGestureListeners();
   }
 };
 
