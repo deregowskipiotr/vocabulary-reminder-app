@@ -2724,5 +2724,274 @@
       "profit from",
       "exploit"
     ]
+  },
+   {
+    "id": "insufficient",
+    "term": "insufficient",
+    "partOfSpeech": ["adjective"],
+    "level": "C1",
+    "definition": "Not enough in quantity, amount, strength, or quality to meet a particular need or requirement.",
+    "polishMeaning": [
+      "niewystarczający",
+      "niedostateczny"
+    ],
+    "examples": [
+      "We have insufficient time to prepare everything before the meeting.",
+      "The evidence was insufficient to justify such a significant decision."
+    ],
+    "collocations": [
+      "insufficient evidence",
+      "insufficient funds",
+      "insufficient time",
+      "insufficient information"
+    ],
+    "usageNote": "Often used in formal, academic, and professional contexts. Common structure: insufficient to do something.",
+    "synonyms": [
+      "inadequate",
+      "not enough",
+      "inadequate in quantity"
+    ]
+  },
+  {
+    "id": "inadequate",
+    "term": "inadequate",
+    "partOfSpeech": ["adjective"],
+    "level": "C1",
+    "definition": "Not good enough in quality, quantity, or ability to meet a particular need or standard.",
+    "polishMeaning": [
+      "nieodpowiedni",
+      "niewystarczający",
+      "nieadekwatny"
+    ],
+    "examples": [
+      "The facilities at the hotel were inadequate for such a large group.",
+      "The current measures are inadequate to address the scale of the problem."
+    ],
+    "collocations": [
+      "inadequate resources",
+      "inadequate preparation",
+      "inadequate facilities",
+      "inadequate protection"
+    ],
+    "usageNote": "Can describe something that is insufficient in amount or unsatisfactory in quality. It can also describe a person's feeling of not being good enough.",
+    "synonyms": [
+      "insufficient",
+      "unsatisfactory",
+      "inappropriate"
+    ]
+  },
+  {
+    "id": "to-disrupt",
+    "term": "to disrupt",
+    "partOfSpeech": ["verb"],
+    "level": "B2",
+    "definition": "To interrupt or prevent a process, activity, or system from continuing in its usual or expected way.",
+    "polishMeaning": [
+      "zakłócać",
+      "przerywać",
+      "dezorganizować"
+    ],
+    "examples": [
+      "Loud construction work can disrupt your sleep.",
+      "The unexpected resignation disrupted the team's plans and delayed the entire project."
+    ],
+    "collocations": [
+      "disrupt traffic",
+      "disrupt daily life",
+      "disrupt a schedule",
+      "seriously disrupt"
+    ],
+    "usageNote": "Usually takes a direct object: disrupt something. In business, it can also describe innovation that significantly changes an established industry.",
+    "synonyms": [
+      "interrupt",
+      "disturb",
+      "upset"
+    ]
+  },
+  {
+    "id": "futile",
+    "term": "futile",
+    "partOfSpeech": ["adjective"],
+    "level": "unknown",
+    "definition": "Unlikely to produce the desired result, making an action or attempt pointless.",
+    "polishMeaning": [
+      "daremny",
+      "bezcelowy",
+      "bezskuteczny"
+    ],
+    "examples": [
+      "It is futile to argue with someone who refuses to listen.",
+      "Further negotiations proved futile, as neither side was willing to compromise."
+    ],
+    "collocations": [
+      "a futile attempt",
+      "a futile effort",
+      "prove futile",
+      "seem futile"
+    ],
+    "usageNote": "Often describes attempts, efforts, arguments, or actions that have little chance of success.",
+    "synonyms": [
+      "pointless",
+      "useless",
+      "ineffective"
+    ]
+  },
+  {
+    "id": "deprivation",
+    "term": "deprivation",
+    "partOfSpeech": ["noun"],
+    "level": "unknown",
+    "definition": "The condition of lacking something necessary or important, such as sleep, food, freedom, or basic resources.",
+    "polishMeaning": [
+      "pozbawienie",
+      "brak",
+      "deprywacja"
+    ],
+    "examples": [
+      "Sleep deprivation can seriously affect your concentration.",
+      "Prolonged deprivation of essential resources can have a lasting impact on a person's health."
+    ],
+    "collocations": [
+      "sleep deprivation",
+      "food deprivation",
+      "social deprivation",
+      "deprivation of basic rights"
+    ],
+    "usageNote": "Often used in discussions about health, psychology, living conditions, and human rights. Common structure: deprivation of something.",
+    "synonyms": [
+      "lack",
+      "shortage",
+      "denial"
+    ]
+  },
+  {
+    "id": "neglect",
+    "term": "neglect",
+    "partOfSpeech": ["noun", "verb"],
+    "level": "unknown",
+    "definition": "As a noun, failure to give someone or something proper care or attention. As a verb, to fail to care for or pay enough attention to someone or something.",
+    "polishMeaning": [
+      "zaniedbanie",
+      "zaniedbywać",
+      "lekceważyć"
+    ],
+    "examples": [
+      "Don't neglect your health just because you have a busy schedule.",
+      "The investigation revealed years of neglect and a failure to maintain basic safety standards."
+    ],
+    "collocations": [
+      "neglect your health",
+      "neglect responsibilities",
+      "child neglect",
+      "neglect to do something"
+    ],
+    "usageNote": "Can be both a noun and a verb. As a verb, it is often followed by an object or by to + infinitive.",
+    "synonyms": [
+      "ignore",
+      "overlook",
+      "disregard"
+    ]
+  },
+  {
+    "id": "to-snap",
+    "term": "to snap",
+    "partOfSpeech": ["verb"],
+    "level": "unknown",
+    "definition": "To break suddenly, usually because something has been stretched, bent, or put under too much pressure.",
+    "polishMeaning": [
+      "pękać",
+      "łamać się",
+      "zrywać się"
+    ],
+    "examples": [
+      "The elastic band snapped when I stretched it too far.",
+      "The elastic band of sleep deprivation can stretch only so far before it snaps."
+    ],
+    "collocations": [
+      "snap under pressure",
+      "snap in two",
+      "snap suddenly",
+      "an elastic band snaps"
+    ],
+    "usageNote": "This entry focuses on the physical meaning of breaking suddenly. The verb also has other meanings, including suddenly losing patience or speaking angrily.",
+    "synonyms": [
+      "break",
+      "split",
+      "rupture"
+    ]
+  },
+  {
+    "id": "aforementioned",
+    "term": "aforementioned",
+    "partOfSpeech": ["adjective"],
+    "level": "unknown",
+    "definition": "Used in formal writing to refer to a person or thing that has already been mentioned.",
+    "polishMeaning": [
+      "wyżej wspomniany",
+      "wspomniany wcześniej"
+    ],
+    "examples": [
+      "Please send the documents to the aforementioned address.",
+      "The aforementioned factors must be taken into account before a final decision is reached."
+    ],
+    "collocations": [
+      "the aforementioned issue",
+      "the aforementioned reasons",
+      "the aforementioned individual",
+      "the aforementioned document"
+    ],
+    "usageNote": "Formal and mainly used in written English. It usually appears before a noun and can often be replaced by previously mentioned.",
+    "synonyms": [
+      "previously mentioned",
+      "above-mentioned"
+    ]
+  },
+  {
+    "id": "congestive",
+    "term": "congestive",
+    "partOfSpeech": ["adjective"],
+    "level": "unknown",
+    "definition": "Relating to congestion, especially an abnormal accumulation of fluid in an organ or part of the body.",
+    "polishMeaning": [
+      "zastoinowy",
+      "związany z zastojem"
+    ],
+    "examples": [
+      "The doctor explained the symptoms associated with congestive heart failure.",
+      "Congestive heart failure can cause fluid to build up in the lungs and other parts of the body."
+    ],
+    "collocations": [
+      "congestive heart failure"
+    ],
+    "usageNote": "A specialised medical adjective. It is most commonly encountered in the established medical term congestive heart failure.",
+    "synonyms": []
+  },
+  {
+    "id": "substantially",
+    "term": "substantially",
+    "partOfSpeech": ["adverb"],
+    "level": "unknown",
+    "definition": "To a large or considerable degree, especially in terms of amount, size, extent, or importance.",
+    "polishMeaning": [
+      "znacznie",
+      "istotnie",
+      "w znacznym stopniu"
+    ],
+    "examples": [
+      "The new system has substantially reduced the time needed to process orders.",
+      "The company's operating costs increased substantially following its expansion into new markets."
+    ],
+    "collocations": [
+      "substantially increase",
+      "substantially reduce",
+      "substantially different",
+      "substantially improve"
+    ],
+    "usageNote": "Often used in formal, academic, and business English to emphasise a significant change or difference.",
+    "synonyms": [
+      "considerably",
+      "significantly",
+      "greatly"
+    ]
   }
 ]
