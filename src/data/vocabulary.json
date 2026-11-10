@@ -2993,5 +2993,557 @@
       "significantly",
       "greatly"
     ]
+  },
+   {
+    "id": "to-chant",
+    "term": "to chant",
+    "partOfSpeech": ["verb"],
+    "level": "unknown",
+    "definition": "To repeat words, phrases, or sounds rhythmically, often loudly or together with other people.",
+    "polishMeaning": [
+      "skandować",
+      "powtarzać rytmicznie",
+      "śpiewać monotonnym, powtarzalnym głosem"
+    ],
+    "examples": [
+      "The football fans started to chant the team's name.",
+      "Protesters chanted slogans outside the government building, demanding immediate action."
+    ],
+    "collocations": [
+      "chant a slogan",
+      "chant someone's name",
+      "chant in unison",
+      "chant loudly"
+    ],
+    "usageNote": "Can describe rhythmic singing, speaking, or shouting. It does not necessarily mean quietly humming a tune.",
+    "synonyms": [
+      "repeat",
+      "recite",
+      "call out"
+    ]
+  },
+  {
+    "id": "oblivion",
+    "term": "oblivion",
+    "partOfSpeech": ["noun"],
+    "level": "unknown",
+    "definition": "The state of being completely forgotten or no longer remembered.",
+    "polishMeaning": [
+      "zapomnienie",
+      "niepamięć"
+    ],
+    "examples": [
+      "Many old traditions have disappeared into oblivion.",
+      "Without proper preservation, these historical documents could eventually sink into oblivion."
+    ],
+    "collocations": [
+      "sink into oblivion",
+      "fade into oblivion",
+      "be consigned to oblivion",
+      "escape oblivion"
+    ],
+    "usageNote": "Often appears in the expression 'fade/sink into oblivion', meaning to be gradually forgotten. It can also refer to a state of unconsciousness.",
+    "synonyms": [
+      "forgetfulness",
+      "neglect",
+      "obscurity"
+    ]
+  },
+  {
+    "id": "at-stake",
+    "term": "at stake",
+    "partOfSpeech": ["idiom"],
+    "level": "unknown",
+    "definition": "At risk of being lost, damaged, or affected by a particular decision or situation.",
+    "polishMeaning": [
+      "na szali",
+      "zagrożony",
+      "będący przedmiotem ryzyka"
+    ],
+    "examples": [
+      "There's a lot of money at stake in this business deal.",
+      "The company's reputation is at stake if it fails to address the customers' complaints."
+    ],
+    "collocations": [
+      "put something at stake",
+      "have something at stake",
+      "a lot at stake",
+      "reputation at stake"
+    ],
+    "usageNote": "Commonly used when something important could be lost or seriously affected. The expression is not limited to financial situations.",
+    "synonyms": [
+      "at risk",
+      "in jeopardy",
+      "on the line"
+    ]
+  },
+  {
+    "id": "enviable",
+    "term": "enviable",
+    "partOfSpeech": ["adjective"],
+    "level": "unknown",
+    "definition": "So good or desirable that other people might wish they had the same thing.",
+    "polishMeaning": [
+      "godny pozazdroszczenia",
+      "budzący zazdrość"
+    ],
+    "examples": [
+      "She has an enviable collection of vintage records.",
+      "The company has built an enviable reputation for customer service."
+    ],
+    "collocations": [
+      "enviable position",
+      "enviable reputation",
+      "enviable record",
+      "enviable lifestyle"
+    ],
+    "usageNote": "Usually positive: it describes something desirable that others admire or might envy.",
+    "synonyms": [
+      "desirable",
+      "admirable",
+      "coveted"
+    ]
+  },
+  {
+    "id": "coup",
+    "term": "coup",
+    "partOfSpeech": ["noun"],
+    "level": "unknown",
+    "definition": "An impressive or unexpected achievement, especially one that brings a significant advantage or success.",
+    "polishMeaning": [
+      "wyczyn",
+      "spektakularne osiągnięcie",
+      "znaczący sukces"
+    ],
+    "examples": [
+      "Getting the famous actor to appear in the advert was quite a coup.",
+      "Securing such a major international partnership was a remarkable coup for the small company."
+    ],
+    "collocations": [
+      "a major coup",
+      "a diplomatic coup",
+      "a remarkable coup",
+      "pull off a coup"
+    ],
+    "usageNote": "In this sense, it means an impressive achievement. It also has a separate, very common political meaning in 'coup d'état' — the sudden illegal seizure of government power.",
+    "synonyms": [
+      "achievement",
+      "triumph",
+      "success"
+    ]
+  },
+  {
+    "id": "to-enrol",
+    "term": "to enrol",
+    "partOfSpeech": ["verb"],
+    "level": "unknown",
+    "definition": "To officially register yourself or someone else for a course, programme, or membership.",
+    "polishMeaning": [
+      "zapisać się",
+      "zarejestrować się",
+      "zapisać kogoś"
+    ],
+    "examples": [
+      "I decided to enrol in an English course this year.",
+      "The university allows international students to enrol in several postgraduate programmes."
+    ],
+    "collocations": [
+      "enrol in a course",
+      "enrol at a university",
+      "enrol students",
+      "enrol on a programme"
+    ],
+    "usageNote": "British spelling: enrol. American English uses enroll. Common patterns include 'enrol in a course' and 'enrol someone on a programme'.",
+    "synonyms": [
+      "register",
+      "sign up",
+      "enter"
+    ]
+  },
+  {
+    "id": "not-to-be-sneezed-at",
+    "term": "not to be sneezed at",
+    "partOfSpeech": ["idiom"],
+    "level": "unknown",
+    "definition": "Worth having, considering, or taking seriously; not something insignificant or unimportant.",
+    "polishMeaning": [
+      "nie do pogardzenia",
+      "godny uwagi",
+      "niemały"
+    ],
+    "examples": [
+      "A ten per cent salary increase is not to be sneezed at.",
+      "For a small business, securing a contract worth half a million pounds is certainly not to be sneezed at."
+    ],
+    "collocations": [
+      "a sum not to be sneezed at",
+      "an achievement not to be sneezed at",
+      "a discount not to be sneezed at"
+    ],
+    "usageNote": "Informal idiom, often used to emphasise that something is more valuable or impressive than it might initially appear.",
+    "synonyms": [
+      "worthwhile",
+      "significant",
+      "not insignificant"
+    ]
+  },
+  {
+    "id": "lure",
+    "term": "lure",
+    "partOfSpeech": ["noun"],
+    "level": "unknown",
+    "definition": "Something attractive that persuades or tempts someone to go somewhere or do something.",
+    "polishMeaning": [
+      "przynęta",
+      "pokusa",
+      "wabik"
+    ],
+    "examples": [
+      "The lure of a higher salary made him consider changing jobs.",
+      "The company used free gifts as a lure to attract new customers."
+    ],
+    "collocations": [
+      "the lure of money",
+      "the lure of fame",
+      "a powerful lure",
+      "the lure of adventure"
+    ],
+    "usageNote": "This entry focuses on the noun. The word can also be used as a verb: 'to lure someone into doing something' means to attract or persuade them, sometimes deceptively.",
+    "synonyms": [
+      "attraction",
+      "temptation",
+      "enticement"
+    ]
+  },
+  {
+    "id": "overheads",
+    "term": "overheads",
+    "partOfSpeech": ["plural noun"],
+    "level": "unknown",
+    "definition": "The regular costs of running a business that are not directly related to producing a particular product or providing a particular service.",
+    "polishMeaning": [
+      "koszty ogólne",
+      "koszty stałe",
+      "koszty prowadzenia działalności"
+    ],
+    "examples": [
+      "We need to reduce our overheads to make the business more profitable.",
+      "Rising energy prices have substantially increased the company's operating overheads."
+    ],
+    "collocations": [
+      "reduce overheads",
+      "keep overheads down",
+      "high overheads",
+      "operating overheads"
+    ],
+    "usageNote": "Common in British business English. Usually plural: 'overheads'. It can include rent, utilities, and administrative expenses. Not every overhead is necessarily fixed.",
+    "synonyms": [
+      "operating costs",
+      "running costs",
+      "indirect costs"
+    ]
+  },
+  {
+    "id": "to-entice",
+    "term": "to entice",
+    "partOfSpeech": ["verb"],
+    "level": "unknown",
+    "definition": "To attract or persuade someone to do something by offering something appealing or desirable.",
+    "polishMeaning": [
+      "kusić",
+      "zwabiać",
+      "zachęcać"
+    ],
+    "examples": [
+      "The shop offered a discount to entice customers to buy more.",
+      "The company introduced flexible working arrangements to entice experienced professionals to join the team."
+    ],
+    "collocations": [
+      "entice customers",
+      "entice someone into doing something",
+      "entice someone with an offer",
+      "entice people to buy"
+    ],
+    "usageNote": "Often suggests attracting someone through an appealing offer, reward, or opportunity. It can sometimes imply manipulation or temptation.",
+    "synonyms": [
+      "attract",
+      "tempt",
+      "lure"
+    ]
+  },
+  {
+    "id": "to-tap-into",
+    "term": "to tap into",
+    "partOfSpeech": ["phrasal verb"],
+    "level": "unknown",
+    "definition": "To make use of a source of knowledge, money, energy, skills, or other resources that can help you achieve something.",
+    "polishMeaning": [
+      "wykorzystać",
+      "sięgnąć po",
+      "uzyskać dostęp do"
+    ],
+    "examples": [
+      "The company wants to tap into a new market.",
+      "By working with local experts, the organisation was able to tap into valuable knowledge and experience."
+    ],
+    "collocations": [
+      "tap into a market",
+      "tap into resources",
+      "tap into someone's knowledge",
+      "tap into potential"
+    ],
+    "usageNote": "The expression usually means accessing or making use of something valuable. The Polish explanation 'skorzystać z okazji' is too narrow for its general meaning.",
+    "synonyms": [
+      "access",
+      "make use of",
+      "draw on"
+    ]
+  },
+  {
+    "id": "to-ruffle-someones-feathers",
+    "term": "to ruffle someone's feathers",
+    "partOfSpeech": ["idiom"],
+    "level": "unknown",
+    "definition": "To annoy, upset, or offend someone, especially by doing or saying something they dislike.",
+    "polishMeaning": [
+      "działać komuś na nerwy",
+      "drażnić kogoś",
+      "urazić kogoś"
+    ],
+    "examples": [
+      "His critical comments really ruffled my feathers.",
+      "The manager's decision to change the working arrangements ruffled a few feathers among the staff."
+    ],
+    "collocations": [
+      "ruffle someone's feathers",
+      "ruffle a few feathers",
+      "avoid ruffling feathers"
+    ],
+    "usageNote": "Informal idiom. Often used when someone causes annoyance or disagreement, sometimes without intending to.",
+    "synonyms": [
+      "annoy",
+      "irritate",
+      "upset"
+    ]
+  },
+  {
+    "id": "prim-and-proper",
+    "term": "prim and proper",
+    "partOfSpeech": ["adjective phrase"],
+    "level": "unknown",
+    "definition": "Very formal, correct, and concerned with behaving according to traditional standards of politeness and respectability.",
+    "polishMeaning": [
+      "przesadnie formalny",
+      "nazbyt poprawny",
+      "bardzo konwencjonalny"
+    ],
+    "examples": [
+      "She always looks so prim and proper at work.",
+      "The film challenges the image of the prim and proper society of the Victorian era."
+    ],
+    "collocations": [
+      "look prim and proper",
+      "behave in a prim and proper way",
+      "prim and proper manners"
+    ],
+    "usageNote": "Often slightly humorous or critical. It can suggest that someone is excessively concerned with appearances, manners, or conventional behaviour.",
+    "synonyms": [
+      "respectable",
+      "proper",
+      "prim"
+    ]
+  },
+  {
+    "id": "inconceivable",
+    "term": "inconceivable",
+    "partOfSpeech": ["adjective"],
+    "level": "unknown",
+    "definition": "Impossible or extremely difficult to imagine or believe.",
+    "polishMeaning": [
+      "nie do pomyślenia",
+      "niewyobrażalny"
+    ],
+    "examples": [
+      "It is inconceivable that he would lie to his closest friends.",
+      "A few decades ago, it would have been inconceivable for people to work remotely from almost anywhere in the world."
+    ],
+    "collocations": [
+      "almost inconceivable",
+      "seem inconceivable",
+      "it is inconceivable that",
+      "an inconceivable idea"
+    ],
+    "usageNote": "A strong adjective used to express disbelief or that something is extremely difficult to imagine.",
+    "synonyms": [
+      "unimaginable",
+      "unthinkable",
+      "incredible"
+    ]
+  },
+  {
+    "id": "vituperative",
+    "term": "vituperative",
+    "partOfSpeech": ["adjective"],
+    "level": "unknown",
+    "definition": "Using extremely harsh, insulting, or abusive language to criticise someone or something.",
+    "polishMeaning": [
+      "obelżywy",
+      "obraźliwy",
+      "pełen inwektyw"
+    ],
+    "examples": [
+      "The online discussion quickly became vituperative.",
+      "The politician responded to the allegations with a vituperative attack on his critics."
+    ],
+    "collocations": [
+      "vituperative language",
+      "vituperative attack",
+      "vituperative criticism",
+      "vituperative remarks"
+    ],
+    "usageNote": "A very formal and relatively uncommon word. It describes language or criticism that is aggressively insulting, rather than simply negative.",
+    "synonyms": [
+      "abusive",
+      "scathing",
+      "insulting"
+    ]
+  },
+  {
+    "id": "domicile",
+    "term": "domicile",
+    "partOfSpeech": ["noun"],
+    "level": "unknown",
+    "definition": "The place where a person has their permanent legal home.",
+    "polishMeaning": [
+      "miejsce stałego zamieszkania",
+      "miejsce zamieszkania w rozumieniu prawnym"
+    ],
+    "examples": [
+      "You must provide proof of your domicile when applying for the service.",
+      "For tax purposes, determining a person's domicile can be more complicated than identifying where they currently live."
+    ],
+    "collocations": [
+      "country of domicile",
+      "place of domicile",
+      "legal domicile",
+      "change of domicile"
+    ],
+    "usageNote": "Formal and often legal. It is not always identical to a person's current residential address; legal domicile can involve their permanent home and intentions.",
+    "synonyms": [
+      "permanent residence",
+      "legal residence",
+      "home"
+    ]
+  },
+  {
+    "id": "indispensable",
+    "term": "indispensable",
+    "partOfSpeech": ["adjective"],
+    "level": "unknown",
+    "definition": "Absolutely necessary or too important to be without.",
+    "polishMeaning": [
+      "niezbędny",
+      "nieodzowny",
+      "niezastąpiony"
+    ],
+    "examples": [
+      "A reliable internet connection is indispensable when working remotely.",
+      "Her extensive experience proved indispensable to the successful completion of the project."
+    ],
+    "collocations": [
+      "absolutely indispensable",
+      "an indispensable part",
+      "indispensable to success",
+      "an indispensable tool"
+    ],
+    "usageNote": "Often followed by 'to' or 'for': indispensable to a project; indispensable for daily work.",
+    "synonyms": [
+      "essential",
+      "vital",
+      "crucial"
+    ]
+  },
+  {
+    "id": "to-look-askance-at",
+    "term": "to look askance at",
+    "partOfSpeech": ["idiom"],
+    "level": "unknown",
+    "definition": "To look at or consider someone or something with suspicion, disapproval, or doubt.",
+    "polishMeaning": [
+      "patrzeć z dezaprobatą",
+      "spoglądać podejrzliwie",
+      "odnosić się z nieufnością"
+    ],
+    "examples": [
+      "My parents looked askance at my decision to quit my job.",
+      "Some traditional employers still look askance at candidates who have changed jobs frequently."
+    ],
+    "collocations": [
+      "look askance at someone",
+      "look askance at something",
+      "regard something askance"
+    ],
+    "usageNote": "Formal and somewhat literary. The expression can indicate suspicion, doubt, or disapproval, not just an unfriendly look.",
+    "synonyms": [
+      "disapprove of",
+      "view with suspicion",
+      "frown upon"
+    ]
+  },
+  {
+    "id": "unwaveringly",
+    "term": "unwaveringly",
+    "partOfSpeech": ["adverb"],
+    "level": "unknown",
+    "definition": "In a firm and determined way, without changing your opinion, belief, or support.",
+    "polishMeaning": [
+      "niezachwianie",
+      "niezmiennie",
+      "z niezłomną determinacją"
+    ],
+    "examples": [
+      "She unwaveringly supported her friend throughout the difficult period.",
+      "The organisation has unwaveringly defended its commitment to equal opportunities."
+    ],
+    "collocations": [
+      "unwaveringly loyal",
+      "unwaveringly committed",
+      "unwaveringly supportive",
+      "unwaveringly believe"
+    ],
+    "usageNote": "Usually describes firm support, loyalty, belief, or commitment. It does not simply mean doing something persistently or stubbornly.",
+    "synonyms": [
+      "steadfastly",
+      "firmly",
+      "resolutely"
+    ]
+  },
+  {
+    "id": "to-gain-momentum",
+    "term": "to gain momentum",
+    "partOfSpeech": ["phrase"],
+    "level": "unknown",
+    "definition": "To become increasingly successful, popular, powerful, or likely to progress.",
+    "polishMeaning": [
+      "nabierać rozpędu",
+      "nabierać tempa",
+      "zyskiwać na sile"
+    ],
+    "examples": [
+      "The campaign is starting to gain momentum.",
+      "The project gained momentum after the company secured its first major investor."
+    ],
+    "collocations": [
+      "gain momentum",
+      "quickly gain momentum",
+      "gather momentum",
+      "build momentum"
+    ],
+    "usageNote": "Used for campaigns, movements, projects, trends, and ideas that are becoming stronger or more successful. 'Gain momentum' is also used for physical movement.",
+    "synonyms": [
+      "gather pace",
+      "gain traction",
+      "build up speed"
+    ]
   }
 ]
